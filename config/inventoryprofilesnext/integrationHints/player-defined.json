@@ -1,0 +1,180 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 324,
+                "top": 167
+            },
+            "SETTINGS": {
+                "horizontalOffset": 324,
+                "top": 164
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 493,
+                "top": 136
+            },
+            "SETTINGS": {
+                "horizontalOffset": 481,
+                "top": 121
+            }
+        }
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "ignore": true
+    },
+    "io.wispforest.accessories.menu.variants.AccessoriesMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.client.gui.screen.PaintingMachineScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 17
+            },
+            "SORT": {
+                "horizontalOffset": 17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 17
+            }
+        }
+    },
+    "com.enderio.machines.client.gui.screen.WiredChargerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 17
+            },
+            "SORT": {
+                "horizontalOffset": 17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 17
+            }
+        }
+    },
+    "com.enderio.machines.client.gui.screen.WirelessChargerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 17
+            },
+            "SORT": {
+                "horizontalOffset": 17
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 17
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 17
+            }
+        }
+    },
+    "com.enderio.machines.common.blocks.wireless_charger.WirelessChargerMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.wired_charger.WiredChargerMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.painting.PaintingMachineMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.stirling_generator.StirlingGeneratorMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.client.gui.screen.ImpulseHopperScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 2,
+                "bottom": 19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 18,
+                "top": -9
+            },
+            "SORT": {
+                "horizontalOffset": 18,
+                "top": -9
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 18,
+                "top": -9
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 18,
+                "top": -9
+            }
+        }
+    },
+    "com.enderio.machines.common.blocks.soul_binder.SoulBinderMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.powered_spawner.PoweredSpawnerMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.client.gui.screen.VacuumChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -12,
+                "bottom": -12
+            }
+        }
+    },
+    "com.enderio.machines.common.blocks.vacuum.xp.XPVacuumMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.travel_anchor.TravelAnchorMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.menu.CapacitorBankMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.client.gui.screen.CrafterScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 22
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 47,
+                "top": -2
+            },
+            "SORT": {
+                "horizontalOffset": 47,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 47,
+                "top": -2
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 47,
+                "top": -2
+            }
+        }
+    },
+    "com.enderio.machines.common.blocks.soul_engine.SoulEngineMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.drain.DrainMenu": {
+        "ignore": true
+    },
+    "com.enderio.machines.common.blocks.vat.VatMenu": {
+        "ignore": true
+    }
+}

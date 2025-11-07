@@ -1,0 +1,14 @@
+*
+!.gitignore
+
+!config
+!config/**
+!mods
+!mods/**
+!resourcepacks
+!resourcepacks/**
+!shaderpacks
+!shaderpacks/**
+
+!options.txt
+!servers.dat
