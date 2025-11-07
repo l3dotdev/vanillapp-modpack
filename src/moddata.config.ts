@@ -31,6 +31,13 @@ export const modDataConfig: Config = {
 				curseForgeProjectId: 457570
 			},
 			serverSide: "unsupported"
+		},
+		{
+			match: {
+				name: "Pretty In Pink",
+				curseForgeProjectId: 1313661
+			},
+			serverSide: "required"
 		}
 	],
 	configFileMap: {
