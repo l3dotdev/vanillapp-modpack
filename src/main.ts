@@ -15,6 +15,7 @@ function main() {
 	const mods = instanceJson.launcher.mods;
 
 	const serverMods = [];
+	const clientOnlyMods = [];
 
 	for (const mod of mods) {
 		if (mod.type !== "mods") {
@@ -23,7 +24,7 @@ function main() {
 
 		let isServerSide = null;
 
-		if ("modrinthProject" in mod) {
+		if ("modrinthProject" in mod && "server_side" in mod.modrinthProject) {
 			const serverSide = mod.modrinthProject.server_side;
 			isServerSide = isServerMod(serverSide);
 		} else {
@@ -38,7 +39,8 @@ function main() {
 
 		if (isServerSide) {
 			serverMods.push(mod);
-			continue;
+		} else {
+			clientOnlyMods.push(mod);
 		}
 
 		if (isServerSide === null) {
@@ -46,9 +48,9 @@ function main() {
 		}
 	}
 
-	serverMods.sort((a, b) => a.name.localeCompare(b.name));
-	for (const mod of serverMods) {
-		console.log(mod.name);
+	clientOnlyMods.sort((a, b) => a.file.localeCompare(b.file));
+	for (const mod of clientOnlyMods) {
+		console.log(mod.file);
 	}
 }
 
