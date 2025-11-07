@@ -42614,13 +42614,97 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Sound Physics Remastered",
+        "version": "[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.1",
+        "optional": true,
+        "file": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "type": "mods",
+        "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "qyVF9oeo",
+          "slug": "sound-physics-remastered",
+          "project_type": "mod",
+          "team": "qdzNnAmS",
+          "title": "Sound Physics Remastered",
+          "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+          "body": "# Sound Physics Remastered\n\n> This is a fork of [Sound Physics Fabric](https://github.com/vlad2305m/Sound-Physics-Fabric) by [vlad2305m](https://github.com/vlad2305m) which is a fork of [Sound Physics](https://github.com/sonicether/Sound-Physics) by [Sonic Ether](https://github.com/sonicether).\n\nA Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.\n\nOptimized for the use with [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) 2.X.X.\n\n\n### Requirements\nThis mod does not require any dependencies, but it is recommended to use the following:\n\n**Fabric**\n\n- [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)\n- [ClothConfig](https://www.curseforge.com/minecraft/mc-mods/cloth-config)\n\n**Forge**\n\n- [ClothConfig](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)\n\n---\n\n### Changes to the Original Mod\n\n**Improvements**\n\n- Improved sound processing performance by a factor of 10\n- Optimized for [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)\n- Ported the mod to Forge\n- Improved configuration UI\n- Made Cloth Config optional\n- Tweaked default config values\n- Added reflectivity to the config GUI\n- Added occlusion variation\n- Added block occlusion factor config\n- Added debug sound bounce rendering\n- Added debug sound occlusion rendering\n\n**Bugfixes**\n\n- Fixed sounds not bouncing more than once\n- Fixed sound bouncing using an excessive amount of performance, despite not working at all\n- Fixed direction evaluation not taking sound source and primary bounces into account\n- Fixed sound allowance not working for `/playsound` command\n- Fixed unmapped field names in the reflectivity config\n- Fixed sound processing using player position instead of camera position",
+          "published": "2022-06-23T14:36:52.813391Z",
+          "updated": "2025-10-07T18:18:19.452044Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "adventure",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
+          "issues_url": "https://github.com/henkelmax/sound-physics-remastered/issues",
+          "source_url": "https://github.com/henkelmax/sound-physics-remastered",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Dd2tmpsk",
+          "project_id": "qyVF9oeo",
+          "author_id": "mqxuCPbU",
+          "name": "[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.1",
+          "version_number": "neoforge-1.21.1-1.5.1",
+          "changelog": "- Fixed direction evaluation being inaccurate at long distances\n",
+          "date_published": "2025-09-25T14:30:18.415525Z",
+          "version_type": "alpha",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
+                "sha512": "ff7e9f0b968eeb2ba0e833328a122813cad0434cfe2d5c3d527c1c0d564504f13a737fc05f22d3fea562a2f86568d31b95212bf5347dd10da36cd49ad56143a6"
+              },
+              "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+              "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+              "primary": true,
+              "size": 202454
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9eGKb6K1",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1762521615625,
-    "numPlays": 48,
+    "lastPlayed": 1762532027634,
+    "numPlays": 49,
     "lastExportName": "Vanilla++",
     "lastExportVersion": "0.1.0",
     "lastExportAuthor": "SyntheticDev",
