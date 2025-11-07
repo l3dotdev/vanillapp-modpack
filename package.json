@@ -1,0 +1,12 @@
+{
+  "name": "vanilla++",
+  "version": "0.2.0",
+  "scripts": {
+    "build": "tsx src/main.ts"
+  },
+  "packageManager": "pnpm@10.15.1",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "tsx": "^4.20.6"
+  }
+}

@@ -10,5 +10,13 @@
 !shaderpacks
 !shaderpacks/**
 
+!instance.json
 !options.txt
 !servers.dat
+
+# Modpack config and generation
+!package.json
+!pnpm-lock.yaml
+!tsconfig.json
+!src
+!src/**
