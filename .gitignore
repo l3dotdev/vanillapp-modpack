@@ -1,22 +1,28 @@
-*
-!.gitignore
+.mixin.out/
+crash-reports/
+defaultconfigs/
+disabledmods/
+logs/
+saves/
+schematics/
+screenshots/
 
-!config
-!config/**
-!mods
-!mods/**
-!resourcepacks
-!resourcepacks/**
-!shaderpacks
-!shaderpacks/**
+downloads/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+jarmods/
 
-!instance.json
-!options.txt
-!servers.dat
+command_history.txt
+usercache.json
+usernamecache.json
+*.dat_old
 
-# Modpack config and generation
-!package.json
-!pnpm-lock.yaml
-!tsconfig.json
-!src
-!src/**
+# Mod caches
+Distant_Horizons_server_data/
+xaero/
+XaeroWaypoints*/
+config/jei/world/
+
+# Source
+node_modules/
+releases/
