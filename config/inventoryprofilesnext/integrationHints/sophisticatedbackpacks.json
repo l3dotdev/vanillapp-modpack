@@ -1,5 +1,5 @@
 {
-    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": {
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": {
         "buttonHints": {
             "MOVE_TO_PLAYER": {
                 "horizontalOffset": 1,
@@ -16,9 +16,6 @@
             "SORT_ROWS": {
                 "horizontalOffset": 1,
                 "top": -11
-            },
-            "SHOW_EDITOR": {
-                "top": 1
             },
             "MOVE_TO_CONTAINER": {
                 "horizontalOffset": 25

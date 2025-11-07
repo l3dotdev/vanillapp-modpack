@@ -176,5 +176,39 @@
     },
     "com.enderio.machines.common.blocks.vat.VatMenu": {
         "ignore": true
+    },
+    "com.simibubi.create.content.schematics.table.SchematicTableMenu": {
+        "playerSideOnly": true
+    },
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 8,
+                "bottom": -4
+            },
+            "SORT": {
+                "horizontalOffset": 20,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20,
+                "bottom": 8
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": -15,
+                "bottom": 19
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.StonecutterScreen": {
+        "buttonHints": {
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": -14
+            }
+        }
     }
 }
