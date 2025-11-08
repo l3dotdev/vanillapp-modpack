@@ -1,0 +1,2 @@
+#List of entity types or tags that should flee from Creaking. Prefix with '#' for tags. Example: 'minecraft:vindicator', '#minecraft:raiders'
+fleeEntities = ["minecraft:vindicator", "minecraft:evoker", "minecraft:pillager"]
