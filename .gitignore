@@ -28,6 +28,8 @@ config/inventoryprofilesnext/*
 !config/inventoryprofilesnext/inventoryprofiles.json
 !config/inventoryprofilesnext/villager-trading-config-v2.json
 
+config/litematica/*
+
 # Source
 node_modules/
 releases/
