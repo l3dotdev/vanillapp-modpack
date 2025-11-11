@@ -1,7 +1,7 @@
 {
   "uuid": "51f861d5-2d91-4ce2-92c7-eb49c9a63e71",
   "launcher": {
-    "name": "Vanilla++",
+    "name": "Vanilla++ Modpack",
     "pack": "Minecraft",
     "description": "Vanilla++ modpack",
     "packId": 0,
@@ -42575,13 +42575,978 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Corpse",
+        "version": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+        "optional": true,
+        "file": "corpse-neoforge-1.21.1-1.1.13.jar",
+        "type": "mods",
+        "description": "Never lose your items again!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "WrpuIfhw",
+          "slug": "corpse",
+          "project_type": "mod",
+          "team": "JYitZHxK",
+          "title": "Corpse",
+          "description": "Never lose your items again!",
+          "body": "This mod brings a corpse into the game.\nIt will spawn upon your death containing all items that you had in your inventory.\n\n\n# Features\n\nThe corpse will appear at the players location upon death.\nYour player skin will be applied to the corpse.\nIt contains all the items you had when you died.\nIt can hold an infinite amount of items.\n\nYou can access the items by right-clicking the corpse.\n\nWhen you take out all items, the corpse will disappear.\nThe corpse can't fall into the void or burn in lava.\nIt also floats in liquids like lava or water.\n\n![](https://i.imgur.com/PbLRPZG.png)\n\n![](https://i.imgur.com/6x9lhS5.png)\n\nAfter 1 hour, the corpse will turn into a skeleton, indicating that it existed for a longer time.\nThis won't change the functionality of the corpse.\n\n![](https://i.imgur.com/tDPoSPD.png)\n\nYou get all your items back into their original slots when transferring the items.\n\n![](https://i.imgur.com/QaYgkb9.png)\n\n\n## Death History\n\nYou can view all your past deaths by pressing the 'U' key.\nYou can retrieve lost items if you are in creative mode.\n\n![](https://i.imgur.com/mg68xFT.png)\n\n\n## Viewing the Death Hisory of other Players\n\nBy typing `/deathhistory <player>` as an operator, you can view the death history of another player.\n\n![](https://i.imgur.com/RzYuMFX.png)\n\n![](https://i.imgur.com/OaPMXl6.png)\n\n\n## Recovering Lost Items\n\nYou can retrieve lost items by pressing the \"Items\" button in the death history GUI.\nNote that you can only take out items if you are in creative mode.\n\n\n## Teleporting to the Death Location\n\nBy clicking on the \"Location\" area in the death history GUI, the command to teleport you to the death location will be displayed in chat.\nIt includes the coordinates and the dimension.\n\n![](https://i.imgur.com/EvRsWwp.png)\n\n![](https://i.imgur.com/e7xZeen.png)\n\n\n## Optional Features (Config Options)\n\n- If only the owner of the corpse can access the inventory\n- If everybody can access the corpse in the skeleton stage\n- The time passed (in ticks) after a corpse despawns if it is empty\n- The time passed (in ticks) after a corpse despawns even if it is full\n- The time passed (in ticks) after a corpse turns into a skeleton\n- If the corpse should spawn on its face\n",
+          "published": "2022-06-23T14:26:00.623749Z",
+          "updated": "2025-10-17T06:47:43.120591Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "storage",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/WrpuIfhw/032925a79197e9e23be2c6a07d994b17e3363912.png",
+          "issues_url": "https://github.com/henkelmax/corpse/issues",
+          "source_url": "https://github.com/henkelmax/corpse",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Zwf8nv8y",
+          "project_id": "WrpuIfhw",
+          "author_id": "mqxuCPbU",
+          "name": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+          "version_number": "neoforge-1.21.1-1.1.13",
+          "changelog": "- Improved corpse spawn position\n",
+          "date_published": "2025-09-21T09:18:20.482823Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "473aafd82008c1e041e3b4a5a177507d555c8bc9dd1f121f252f1e81bc0c69c79a91cb64be0df343babcb3d4db76efbaa7aa2adaeaae29337808a368bc290ad0",
+                "sha1": "a735362c4e5ef705956f1fcbac01fb9f1aae5b8e"
+              },
+              "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar",
+              "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+              "primary": true,
+              "size": 253694
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nvQzSEkH",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "XQ2oaWrb",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "BaguetteLib",
+        "version": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+        "optional": true,
+        "file": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+        "type": "mods",
+        "description": "Ever tried to make a mod that needs proper death handling or inventory tracking? Yeah, NeoForge events suck for that.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1264423,
+        "curseForgeFileId": 7031576,
+        "curseForgeProject": {
+          "id": 1264423,
+          "name": "BaguetteLib",
+          "authors": [
+            {
+              "id": 101661042,
+              "name": "Project8gbDeRam",
+              "url": "https://www.curseforge.com/members/project8gbderam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple but powerful event library that gives mod developers the control they actually need.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "baguettelib",
+          "isFeatured": false,
+          "dateModified": "2025-10-13T21:39:28.303Z",
+          "dateCreated": "2025-05-13T12:41:17.86Z",
+          "dateReleased": "2025-10-13T21:33:03.877Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/baguettelib",
+            "issuesUrl": "https://github.com/Leclowndu93150/BaguetteLib/issues",
+            "sourceUrl": "https://github.com/Leclowndu93150/BaguetteLib"
+          },
+          "logo": {
+            "id": 1312883,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1312/883/256/256/638853653640016923.png",
+            "title": "638853653640016923.png",
+            "url": "https://media.forgecdn.net/avatars/1312/883/638853653640016923.png",
+            "modId": 1264423
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7104384
+        },
+        "curseForgeFile": {
+          "id": 7031576,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+          "fileName": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-25T09:12:49.36Z",
+          "fileLength": 65068,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3184602438,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1131343821,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2015956557,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 673517424,
+              "name": "baguettelib.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "735c1f8d9f16756aaa66ff61d7194aca11cd8aa6",
+              "algo": 1
+            },
+            {
+              "value": "e3c7575900e30086312aae31de276bfe",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 499009079,
+          "modId": 1264423
+        },
+        "modrinthProject": {
+          "id": "OfKzpbRU",
+          "slug": "baguettelib",
+          "project_type": "mod",
+          "team": "Nw4Hittb",
+          "title": "BaguetteLib",
+          "description": "Ever tried to make a mod that needs proper death handling or inventory tracking? Yeah, NeoForge events suck for that.",
+          "body": "# BaguetteLib\n\n***\n\nEver tried to make a mod that needs proper death handling or inventory tracking? Yeah, NeoForge events suck for that. Support in my [Discord](https://discord.gg/3BnbkNWT99)\n\n## What's in it\n\n***\n\n**Death Events**\n\n*   Catch deaths before they happen (cancel them if you want)\n*   Do stuff after someone dies\n*   Works on everything - players, mobs, whatever\n\n**Inventory Events**\n\n*   Hotbar changes, armor swaps, picking stuff up\n*   Get the old item and new item for each change\n*   Special handling for hands and offhand\n\n## Usage\n\n***\n\nAdd it to your mod, register some events:\n\n<div><div>&nbsp;</div><div><pre><code>@SubscribeEvent\npublic static void onPlayerPreDeath(PlayerDeathEvent.Pre event) {\n    // Do whatever you want here\n}</code></pre></div></div>\n\nThat's it. No mixins, no extra crap.\n\n***\n\n_Made by a developer who got tired of working around NeoForge event limitations._\n\n \n\nIf you'd like to support me and the development of my mods, I recommend trying out BisectHosting. Use code \"project8gbderam\" to get 25% off your first month of a gaming server for new customers. They offer 24/7 support and lightning-fast response times, ensuring you're in great hands and providing exceptional assistance for all your gaming needs. [https://www.bisecthosting.com/project8gbderam](https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/project8gbderam)\n\n![Bisect](https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png)",
+          "published": "2025-06-25T13:02:25.608075Z",
+          "updated": "2025-09-27T08:34:01.280942Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OfKzpbRU/d007c3afd229b8e796f41174ceacd7c8f0f436cc_96.webp",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "qlBZoBHM",
+          "project_id": "OfKzpbRU",
+          "author_id": "32DYp1PZ",
+          "name": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+          "version_number": "1.1.2",
+          "changelog": "<p>fix crash on arclight</p>",
+          "date_published": "2025-09-27T08:34:01.280942Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "4d982db3147c458a9ffa49345da64487a61fbffd45dff5236be09fd96cc95cef380d996cd1e95839983e8b3756f711b45d088edaca82d58ea5bfa62b52797946",
+                "sha1": "735c1f8d9f16756aaa66ff61d7194aca11cd8aa6"
+              },
+              "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/qlBZoBHM/baguettelib-1.21.1-NeoForge-1.1.2.jar",
+              "filename": "baguettelib-1.21.1-NeoForge-1.1.2.jar",
+              "primary": true,
+              "size": 65068
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Corpse x Curios API Compat",
+        "version": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+        "optional": true,
+        "file": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+        "type": "mods",
+        "description": "This little mod allows you to directly equip your Curios items to the respective slots",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1138130,
+        "curseForgeFileId": 6898077,
+        "curseForgeProject": {
+          "id": 1138130,
+          "name": "Corpse x Curios API Compat",
+          "authors": [
+            {
+              "id": 101661042,
+              "name": "Project8gbDeRam",
+              "url": "https://www.curseforge.com/members/project8gbderam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds Curios API support to Corpse",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "corpse-x-curios-api-compat",
+          "isFeatured": false,
+          "dateModified": "2025-10-09T20:41:52.28Z",
+          "dateCreated": "2024-11-12T14:06:59.943Z",
+          "dateReleased": "2025-10-09T20:38:21.9Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/Leclowndu93150/Corpse-Curios-Compat"
+          },
+          "logo": {
+            "id": 1115573,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1115/573/256/256/638669521923748256.png",
+            "title": "638669521923748256.png",
+            "url": "https://media.forgecdn.net/avatars/1115/573/638669521923748256.png",
+            "modId": 1138130
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7088158
+        },
+        "curseForgeFile": {
+          "id": 6898077,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+          "fileName": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-08-17T21:26:40.88Z",
+          "fileLength": 26059,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 929649302,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2330938888,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1695809678,
+              "name": "corpsecurioscompat.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b5b913ed0452e132b4bb6a7a73348cb0fcf3851b",
+              "algo": 1
+            },
+            {
+              "value": "0854cecc78a79a3e0007b31458685b15",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 913978003,
+          "modId": 1138130
+        },
+        "modrinthProject": {
+          "id": "pJGcKPh1",
+          "slug": "corpse-x-curios-api-compat",
+          "project_type": "mod",
+          "team": "TniCrdz3",
+          "title": "Corpse x Curios API Compat",
+          "description": "This little mod allows you to directly equip your Curios items to the respective slots",
+          "body": "<h2 style=\"text-align: center;\">Corpse x Curios API Compat</h2><p style=\"text-align: center;\">This little mod allows you to directly equip your Curios items to the respective slots</p><p style=\"text-align: center;\">Support is available on [Discord](https://discord.gg/m4EHeRjfZ9)</p><p style=\"text-align: center;\">\n  \n  ![gif](https://media.forgecdn.net/attachments/description/null/description_1bd427bd-aad6-44f4-ab24-2bfd7233cc59.gif)</p> \n\nIf you'd like to support me and the development of my mods, I recommend trying out BisectHosting. Use code \"project8gbderam\" to get 25% off your first month of a gaming server for new customers. They offer 24/7 support and lightning-fast response times, ensuring you're in great hands and providing exceptional assistance for all your gaming needs.\n\n[https://www.bisecthosting.com/project8gbderam](https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/project8gbderam)\n\n![](https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png)",
+          "published": "2025-02-19T16:04:19.800559Z",
+          "updated": "2025-08-19T16:40:47.014683Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pJGcKPh1/5e2a59a14b112aa7814260b71adb09617cc4e4bf_96.webp",
+          "issues_url": "https://github.com/Leclowndu93150/Corpse-Gravestone-Curios-Compat/issues",
+          "source_url": "https://github.com/Leclowndu93150/Corpse-Gravestone-Curios-Compat",
+          "discord_url": "https://discord.gg/m4EHeRjfZ9",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "MggwWPUK",
+          "project_id": "pJGcKPh1",
+          "author_id": "32DYp1PZ",
+          "name": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+          "version_number": "3.1.2",
+          "changelog": "<p>the mod now differenciates between comestic and regular slots</p>\n<p>fixed an issue where curios that add extra slots wouldn't equip the rest correctly (i had to double the mod's size in code to fix that but whatever :P )</p>\n<p>added a config option to not equip cursed items (curse of binding for now) enabled by default</p>\n<p>&nbsp;</p>\n<p>i hope you guys will enjoy it, it took me a while :D if you got feedback&nbsp; you can leave a comment i read them all</p>",
+          "date_published": "2025-08-19T16:40:47.014683Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "b5b913ed0452e132b4bb6a7a73348cb0fcf3851b",
+                "sha512": "a6d994202fd8ed7ce818e3ab83058b36cc5256b88b8d21417ea07d847ac38cf37982340209f9c1a510ef83aa7a53c6199ce782ccb2b6dc925b923bd295533a36"
+              },
+              "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/MggwWPUK/corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+              "filename": "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
+              "primary": true,
+              "size": 26059
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "WrpuIfhw",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "OfKzpbRU",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "vvuO3ImH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Freecam",
+        "version": "1.3.0 for MC 1.21.1 (neoforge)",
+        "optional": true,
+        "file": "freecam-neoforge-1.3.0+mc1.21.jar",
+        "type": "mods",
+        "description": "A highly customizable freecam mod.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 557076,
+        "curseForgeFileId": 5572364,
+        "curseForgeProject": {
+          "id": 557076,
+          "name": "Freecam",
+          "authors": [
+            {
+              "id": 102900906,
+              "name": "hashalite",
+              "url": "https://www.curseforge.com/members/hashalite"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple, standalone freecam mod.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "free-cam",
+          "isFeatured": false,
+          "dateModified": "2025-10-12T06:01:53.52Z",
+          "dateCreated": "2021-12-14T08:29:53.063Z",
+          "dateReleased": "2025-10-12T02:44:14Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/free-cam",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 467941,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/467/941/256/256/637750574586450724.png",
+            "title": "637750574586450724.png",
+            "url": "https://media.forgecdn.net/avatars/467/941/637750574586450724.png",
+            "modId": 557076
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7097204
+        },
+        "curseForgeFile": {
+          "id": 5572364,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.3.0 for MC 1.21 (neoforge)",
+          "fileName": "freecam-neoforge-1.3.0+mc1.21.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-27T21:08:01.377Z",
+          "fileLength": 1137632,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 1
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3998521469,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3404651045,
+              "name": "architectury_inject_freecam_common_757f58be3179414dac3f26ecd3e7c388_a21e3b03ef48406724c1e50d9ba4d030e6639c340df3ba10f19204b12229b1b0freecamcommon130mc121devjar"
+            },
+            {
+              "fingerprint": 2507479455,
+              "name": "architectury_inject_freecam_normal_43505fd64c8f4504ac7076fb920d6be7_4de3adf2289f6f5f2e25ba21218458a37647667a9a80e8830177f604871db048freecamvariantnormal130mc121devjar"
+            },
+            {
+              "fingerprint": 1309896194,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4244553526,
+              "name": "freecam-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 1247853070,
+              "name": "freecam-common.mixins.json"
+            },
+            {
+              "fingerprint": 2157706597,
+              "name": "freecam-neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 1434818781,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3326668088,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2854250008,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "428eee42f39e6f4c36a3fed2fc127ee9cbd5fa0c",
+              "algo": 1
+            },
+            {
+              "value": "e4bb3f726e60bf5011d3b84f68ad2cdd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "1.21",
+            "Client",
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 4136507442,
+          "modId": 557076
+        },
+        "modrinthProject": {
+          "id": "XeEZ3fK2",
+          "slug": "freecam",
+          "project_type": "mod",
+          "team": "KEIAWiZn",
+          "title": "Freecam",
+          "description": "A highly customizable freecam mod.",
+          "body": "# Freecam\n[![Crowdin](https://badges.crowdin.net/freecam/localized.svg)](https://crowdin.com/project/freecam)\n\nThis mod allows you to control your camera separately from your player. While it is enabled, you can fly around and travel through blocks within your render distance. Disabling it will restore you to your original position. This can be useful for quickly inspecting builds and exploring your world. \n\nThis mod works in multiplayer, but may be considered cheating on some servers.\nIt is your responsibility to check **all** relevant rules **before** using this mod.\n\nWhile Freecam should only affect the client, it **may be possible** for servers to detect the mod being installed through various exploits in Minecraft,\nmodding platforms, or this mod.  \nHere's a [real example](https://github.com/MinecraftFreecam/Freecam/issues/196) that exploited translation keys. \n\nTo paraphrase our license, we are not responsible for any damages or liability related to Freecam.\nAmong other things, this means it's not our fault if you get banned from a server.\nHere's the [full license](./LICENSE).\n\n## Translation\n\nYou can help [translate Freecam on Crowdin](https://crowdin.com/project/freecam).\nIf you're unfamiliar with Crowdin, you can read their [getting started as a volunteer translator guide](https://support.crowdin.com/enterprise/getting-started-for-volunteers).\n\nIf you'd like to translate a language we don't currently target, please [open an issue](https://github.com/MinecraftFreecam/Freecam/issues/new) asking us to enable the language.\n\n## Keybinds\n\n| Name           | Description                                                                                                             | Default Bind |\n|----------------|-------------------------------------------------------------------------------------------------------------------------|--------------|\n| Toggle Freecam | Enables/disables Freecam                                                                                                | `F4`         |\n| Config GUI     | Opens the settings screen.                                                                                              | `Unbound`    |\n| Control Player | Transfers control back to your player, but retains your current perspective (Can only be used while Freecam is active.) | `Unbound`    |\n| Reset Tripod   | Resets a tripod\\* camera when pressed in combination with any of the hotbar keys                                        | `Unbound`    |\n\n\\*The freecam bind can also be used in conjunction with any of the hotbar keys (`F4` + `1`...`9`) to enter \"tripod\" mode. This enables you to set up multiple cameras with differing perspectives, and switch between them at will.\n\n## Movement Options\n\n| Name             | Description                                                                                                                                                 | Default Value |\n|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|\n| Flight Mode      | The type of flight used by freecam.<br /><br />**Options:**<br />- `DEFAULT` : Static velocity with no drifting<br />- `CREATIVE` : Vanilla creative flight | `DEFAULT`     |\n| Horizontal Speed | The horizontal speed of freecam.                                                                                                                            | `1.0`         |\n| Vertical Speed   | The vertical speed of freecam.                                                                                                                              | `1.0`         |\n\n## Collision Options\n\n| Name                           | Description                                                                                          | Default Value |\n|--------------------------------|------------------------------------------------------------------------------------------------------|---------------|\n| Ignore Transparent Blocks      | Allows travelling through transparent blocks in freecam.                                             | `true`        |\n| Ignore Openable Blocks         | Allows travelling through doors/trapdoors/gates in freecam.                                          | `true`        |\n| Ignore All Collision           | Allows travelling through all blocks in freecam.                                                     | `true`        |\n| Always Check Initial Collision | Whether **Initial Perspective** should check for collision, even when using **Ignore All Collision** | `false`       |\n\n## Visual Options\n\n| Name                | Description                                                                                                                                                                                                                                         | Default Value |\n|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|\n| Initial Perspective | The initial perspective of the camera.<br /><br />**Options:**<br />- `FIRST_PERSON` : The player's perspective<br />- `THIRD_PERSON` : Behind the player<br />- `THIRD_PERSON_MIRROR` : In front of the player<br />- `INSIDE` : Inside the player | `INSIDE`      |\n| Show Player         | Shows your player in its original position.                                                                                                                                                                                                         | `true`        |\n| Show Hand           | Whether you can see your hand in freecam.                                                                                                                                                                                                           | `false`       |\n| Full Brightness     | Increases brightness while in freecam.                                                                                                                                                                                                              | `false`       |\n| Show Submersion Fog | Whether you see a fog overlay underwater, in lava, or powdered snow.                                                                                                                                                                                | `false`       |\n\n## Utility Options\n\n| Name              | Description                                                                                                                                                              | Default Value |\n|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|\n| Disable on Damage | Disables freecam when damage is received.                                                                                                                                | `true`        |\n| Freeze Player     | Prevents player movement while freecam is active.<br />**WARNING: Multiplayer usage not advised.**                                                                       | `false`       |\n| Allow Interaction | Whether you can interact with blocks/entities in freecam.<br />**WARNING: Multiplayer usage not advised.**                                                               | `false`       |\n| Interaction Mode  | The source of block/entity interactions.<br /><br />**Options:**<br />- `CAMERA` : Interactions come from the camera<br />- `PLAYER` : Interactions come from the player | `CAMERA`      |\n\n## Notification Options\n\n| Name                  | Description                                             | Default Value |\n|-----------------------|---------------------------------------------------------|---------------|\n| Freecam Notifications | Notifies you when entering/exiting freecam.             | `true`        |\n| Tripod Notifications  | Notifies you when entering/exiting tripod cameras.<br/> | `true`        |\n\n## Requirements\n\n### Fabric\n- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (Optional)\n\n### Forge\n- None",
+          "published": "2021-12-13T03:27:37.365864Z",
+          "updated": "2025-10-12T02:43:57.894140Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XeEZ3fK2/icon.png",
+          "issues_url": "https://github.com/hashalite/Freecam/issues",
+          "source_url": "https://github.com/hashalite/Freecam",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ROfcbxxe",
+          "project_id": "XeEZ3fK2",
+          "author_id": "uUwCMOC5",
+          "name": "1.3.0 for MC 1.21.1 (neoforge)",
+          "version_number": "1.3.0+mc1.21.1",
+          "changelog": "(non-modrinth edition mirrored from Github for version coverage - originally released Jul 27, 2024)\n### Fixed\n\n- Config is now initialized before config screen is registered (fixes [#234](https://github.com/MinecraftFreecam/Freecam/issues/234))\n- Build against NeoForge 21.0.139-beta (fixes opening config screen through Forge modlist crashing)\n- Pumpkin overlay rendering while Freecam is enabled ([#239](https://github.com/MinecraftFreecam/Freecam/issues/239))\n",
+          "date_published": "2025-03-26T09:01:37.414868Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "06cfa2acdde8320ca19edf3f49e7a3860cc079bbad02fda493459109d745da237e19ff6a28d879d4c863ea4cd24d83b193ec82dd351540ad27991e239f1e7a72",
+                "sha1": "428eee42f39e6f4c36a3fed2fc127ee9cbd5fa0c"
+              },
+              "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/ROfcbxxe/freecam-neoforge-1.3.0%2Bmc1.21.jar",
+              "filename": "freecam-neoforge-1.3.0+mc1.21.jar",
+              "primary": true,
+              "size": 1137632
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g"
+            }
+          ],
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "BetterF3",
+        "version": "BetterF3 NeoForge v11.0.3 (1.21.1)",
+        "optional": true,
+        "file": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "type": "mods",
+        "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 401648,
+        "curseForgeFileId": 5873258,
+        "curseForgeProject": {
+          "id": 401648,
+          "name": "BetterF3",
+          "authors": [
+            {
+              "id": 42614218,
+              "name": "cominixo",
+              "url": "https://www.curseforge.com/members/cominixo"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A mod that provides a highly customizable, more human-readable Debug HUD. ",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "betterf3",
+          "isFeatured": false,
+          "dateModified": "2025-11-03T04:54:10.71Z",
+          "dateCreated": "2020-08-11T23:14:01.59Z",
+          "dateReleased": "2025-11-03T04:50:05.84Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/betterf3",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TreyRuffy/BetterF3/issues/",
+            "sourceUrl": "https://github.com/TreyRuffy/BetterF3"
+          },
+          "logo": {
+            "id": 293027,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/293/27/256/256/637327750859254377.png",
+            "title": "637327750859254377.png",
+            "url": "https://media.forgecdn.net/avatars/293/27/637327750859254377.png",
+            "modId": 401648
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7180975
+        },
+        "curseForgeFile": {
+          "id": 5873258,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "BetterF3 NeoForge v11.0.3 (1.21.1)",
+          "fileName": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-11-04T00:45:07.78Z",
+          "fileLength": 481646,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3447543306,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 368856278,
+              "name": "BetterF3-common-refmap.json"
+            },
+            {
+              "fingerprint": 2773559383,
+              "name": "LICENSE.txt"
+            },
+            {
+              "fingerprint": 1967257789,
+              "name": "architectury_inject_BetterF3_common_6022176412bf47f0a48f36924db6bd69_9b72c03cca76358ede5bc94ad01fcfe834a221536053c442d21c86edbe7c6e0cBetterF31103devjar"
+            },
+            {
+              "fingerprint": 3372408542,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3760558264,
+              "name": "betterf3.mixins.json"
+            },
+            {
+              "fingerprint": 479940081,
+              "name": "betterf3.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 773465483,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 4169747550,
+              "name": "me"
+            },
+            {
+              "fingerprint": 2092460052,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+              "algo": 1
+            },
+            {
+              "value": "ece6a3a01373146d2f351ba721e0083d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 2574672049,
+          "modId": 401648
+        },
+        "modrinthProject": {
+          "id": "8shC1gFX",
+          "slug": "betterf3",
+          "project_type": "mod",
+          "team": "uWJ0gwSz",
+          "title": "BetterF3",
+          "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+          "body": "# BetterF3 \n![Environment: Client](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)\n\n#### BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more.\n\n#### Dependencies\n\nFabric\n* Optionally: [ModMenu](https://modrinth.com/mod/modmenu) to access the options menu\n* Included: [Cloth Config](https://modrinth.com/mod/cloth-config) to use F3 + M\n\nForge\n* Highly Recommended: [Cloth Config](https://modrinth.com/mod/cloth-config) to use F3 + M\n\n#### Features\nEach line is part of a Module, you can:\n* Change the colors of each module\n* Change the position of each module\n* Add and delete modules, as well as add spacings between them\n* Disable individual lines of a module, or disable the whole module\n* Add a shadow to the text rendered (Activated by default)\n* Change the color of the background behind all lines\n* Animations for opening/closing (with configurable speeds)\n\n#### Translations\nThis mod has been translated into multiple languages. Add or update your own language on [Crowdin](https://crowdin.com/project/betterf3)\n\n#### Development Builds\nThe latest builds can be found [here](https://github.com/TreyRuffy/BetterF3/actions/).\n\n#### Configuration\nDownloading [Cloth Config](https://modrinth.com/mod/cloth-config) allows you to press F3 + M in game to edit the F3 menu.\n##### \n\n#### Screenshots and Videos\n\n![Image](https://raw.githubusercontent.com/TreyRuffy/BetterF3/architectury/1.20/docs/readme/readme-image.png)\n![GIF](https://github.com/TreyRuffy/BetterF3/blob/architectury/1.20/docs/readme/readme-gif-image.gif?raw=true)\n\n[Video by AntVenom](https://www.youtube.com/watch?v=jbkivpOujXI&t=568s)</br>\n[Video by Boodlyneck](https://www.youtube.com/watch?v=5lcZ853-jkA&t=349s)\n\n#### Thanks to [@Nirewen](https://github.com/nirewen) for the icon.\n\n### Post any issues on the [GitHub Issues tab](https://github.com/TreyRuffy/BetterF3/issues)",
+          "published": "2021-09-20T05:42:23.778430Z",
+          "updated": "2025-11-03T04:50:07.589032Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration",
+            "game-mechanics",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com//data/8shC1gFX/icon.png",
+          "issues_url": "https://github.com/TreyRuffy/BetterF3/issues/",
+          "source_url": "https://github.com/TreyRuffy/BetterF3",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://www.buymeacoffee.com/TreyRuffy"
+            },
+            {
+              "id": "github",
+              "platform": "Github",
+              "url": "https://github.com/sponsors/TreyRuffy"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/8shC1gFX/images/00ee650b0a73429b729db674eac8970a43ece48f_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/8shC1gFX/images/546fc6d22a9adeb148ea1f278eaec9a55640aa56.png",
+              "featured": true,
+              "title": "F3 Menu",
+              "description": "The colored F3 menu",
+              "created": "2022-05-20T19:58:23.772019Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "maXNB1dn",
+          "project_id": "8shC1gFX",
+          "author_id": "8ffpigk3",
+          "name": "BetterF3 NeoForge v11.0.3 (1.21.1)",
+          "version_number": "11.0.3",
+          "changelog": "## BetterF3 v11.0.3 for Minecraft 1.21.1\nPublished 2024-11-04\n\n### Updated\n- Translations\n\nFull Changelog: [`v11.0.2...v11.0.3`](https://github.com/TreyRuffy/BetterF3/compare/v11.0.2...v11.0.3)",
+          "date_published": "2024-11-04T00:45:11.855685Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "59c36a882669399dce2110db42df05e8fe935a2e1194c4bac49abffc3129b2e19373dfe3c4a3d2f8b22f21b1d66ad8cbd653944ce0a71ae05d3d65528d1b7514",
+                "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26"
+              },
+              "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+              "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+              "primary": true,
+              "size": 481646
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1762775912642,
-    "numPlays": 66,
+    "lastPlayed": 1762890588731,
+    "numPlays": 69,
     "lastExportName": "Vanilla++",
     "lastExportVersion": "0.3.2",
     "lastExportAuthor": "SyntheticDev",
