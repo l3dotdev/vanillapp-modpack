@@ -30,6 +30,9 @@ config/inventoryprofilesnext/*
 
 config/litematica/*
 
+config/voicechat/*
+!config/voicechat/voicechat-server.properties
+
 # Source
 node_modules/
 releases/
