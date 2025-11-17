@@ -43540,17 +43540,4296 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Ksyxis",
+        "version": "Ksyxis 1.3.4",
+        "optional": true,
+        "file": "Ksyxis-1.3.4.jar",
+        "type": "mods",
+        "description": "Speed up your world loading by removing spawn chunks.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 537533,
+        "curseForgeFileId": 6831842,
+        "curseForgeProject": {
+          "id": 537533,
+          "name": "Ksyxis",
+          "authors": [
+            {
+              "id": 46091307,
+              "name": "VidTu",
+              "url": "https://www.curseforge.com/members/vidtu"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Speed up your world loading by removing spawn chunks.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "ksyxis",
+          "isFeatured": false,
+          "dateModified": "2025-07-31T10:20:38.623Z",
+          "dateCreated": "2021-10-17T08:24:22.507Z",
+          "dateReleased": "2025-07-31T10:17:59.333Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ksyxis",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/VidTu/Ksyxis/issues",
+            "sourceUrl": "https://github.com/VidTu/Ksyxis"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/Q6saSVSuYQ"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/VidTu/Ksyxis"
+            }
+          ],
+          "logo": {
+            "id": 1182349,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1182/349/256/256/638755824642044161.png",
+            "title": "638755824642044161.png",
+            "url": "https://media.forgecdn.net/avatars/1182/349/638755824642044161.png",
+            "modId": 537533
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6831842
+        },
+        "curseForgeFile": {
+          "id": 6831842,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Ksyxis 1.3.4",
+          "fileName": "Ksyxis-1.3.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-07-31T10:17:59.333Z",
+          "fileLength": 29869,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2538501556,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1891458709,
+              "name": "ru"
+            },
+            {
+              "fingerprint": 2642783207,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1913534065,
+              "name": "ksyxis.mixins.json"
+            },
+            {
+              "fingerprint": 3350732098,
+              "name": "ksyxis.png"
+            },
+            {
+              "fingerprint": 2591662117,
+              "name": "ksyxis_240.png"
+            },
+            {
+              "fingerprint": 4045062848,
+              "name": "ksyxis_64.png"
+            },
+            {
+              "fingerprint": 3424279072,
+              "name": "ksyxis_background.png"
+            },
+            {
+              "fingerprint": 2294717129,
+              "name": "mcmod.info"
+            },
+            {
+              "fingerprint": 3310477000,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1708311728,
+              "name": "quilt.mod.json"
+            },
+            {
+              "fingerprint": 2563064398,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2735876669,
+              "name": "LICENSE"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "143fe088170e5777d3ccf5b488d61ee3635ebffe",
+              "algo": 1
+            },
+            {
+              "value": "665af2d0045f1ff0fde3898a49155145",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016",
+              "gameVersion": "1.16",
+              "gameVersionReleaseDate": "2020-02-06T00:00:00Z",
+              "gameVersionName": "1.16-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000017.0000000001",
+              "gameVersion": "1.17.1",
+              "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+              "gameVersionName": "1.17.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009.0000000001",
+              "gameVersion": "1.9.1",
+              "gameVersionReleaseDate": "2016-03-29T05:00:00Z",
+              "gameVersionName": "1.9.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000003",
+              "gameVersion": "1.16.3",
+              "gameVersionReleaseDate": "2020-09-10T14:44:20.443Z",
+              "gameVersionName": "1.16.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000013.0000000001",
+              "gameVersion": "1.13.1",
+              "gameVersionReleaseDate": "2018-08-22T00:00:00Z",
+              "gameVersionName": "1.13.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009.0000000003",
+              "gameVersion": "1.9.3",
+              "gameVersionReleaseDate": "2016-05-09T05:00:00Z",
+              "gameVersionName": "1.9.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000007",
+              "gameVersion": "1.8.7",
+              "gameVersionReleaseDate": "2015-06-05T05:00:00Z",
+              "gameVersionName": "1.8.7"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000002",
+              "gameVersion": "1.21.2",
+              "gameVersionReleaseDate": "2024-08-16T00:00:00Z",
+              "gameVersionName": "1.21.2-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000006",
+              "gameVersion": "1.21.6",
+              "gameVersionReleaseDate": "2025-04-09T00:00:00Z",
+              "gameVersionName": "1.21.6-snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000015",
+              "gameVersion": "1.15",
+              "gameVersionReleaseDate": "2019-08-22T00:00:00Z",
+              "gameVersionName": "1.15-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000001",
+              "gameVersion": "1.16.1",
+              "gameVersionReleaseDate": "2020-06-24T12:41:11.823Z",
+              "gameVersionName": "1.16.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-04-19T00:00:00Z",
+              "gameVersionName": "1.19.4-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000005",
+              "gameVersion": "1.21.5",
+              "gameVersionReleaseDate": "2025-03-25T16:46:25.94Z",
+              "gameVersionName": "1.21.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000010",
+              "gameVersion": "1.10",
+              "gameVersionReleaseDate": "2016-06-06T05:00:00Z",
+              "gameVersionName": "1.10-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009.0000000004",
+              "gameVersion": "1.9.4",
+              "gameVersionReleaseDate": "2016-05-10T05:00:00Z",
+              "gameVersionName": "1.9.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009.0000000002",
+              "gameVersion": "1.9.2",
+              "gameVersionReleaseDate": "2016-03-30T05:00:00Z",
+              "gameVersionName": "1.9.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000004",
+              "gameVersion": "1.8.4",
+              "gameVersionReleaseDate": "2015-04-17T05:00:00Z",
+              "gameVersionName": "1.8.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014.0000000004",
+              "gameVersion": "1.14.4",
+              "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+              "gameVersionName": "1.14.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014.0000000001",
+              "gameVersion": "1.14.1",
+              "gameVersionReleaseDate": "2019-05-13T00:00:00Z",
+              "gameVersionName": "1.14.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012.0000000001",
+              "gameVersion": "1.12.1",
+              "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
+              "gameVersionName": "1.12.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000017",
+              "gameVersion": "1.17",
+              "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+              "gameVersionName": "1.17"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012",
+              "gameVersion": "1.12",
+              "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
+              "gameVersionName": "1.12"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-08-06T00:00:00Z",
+              "gameVersionName": "1.20.2-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2023-12-18T00:00:00Z",
+              "gameVersionName": "1.20.5-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014.0000000003",
+              "gameVersion": "1.14.3",
+              "gameVersionReleaseDate": "2019-06-24T00:00:00Z",
+              "gameVersionName": "1.14.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000015",
+              "gameVersion": "1.15",
+              "gameVersionReleaseDate": "2019-12-10T15:26:51.027Z",
+              "gameVersionName": "1.15"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016",
+              "gameVersion": "1.16",
+              "gameVersionReleaseDate": "2020-06-23T13:41:08.75Z",
+              "gameVersionName": "1.16"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000013",
+              "gameVersion": "1.13",
+              "gameVersionReleaseDate": "2018-07-18T00:00:00Z",
+              "gameVersionName": "1.13"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000008",
+              "gameVersion": "1.21.8",
+              "gameVersionReleaseDate": "2025-07-17T14:01:29.007Z",
+              "gameVersionName": "1.21.8"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000008",
+              "gameVersion": "1.8.8",
+              "gameVersionReleaseDate": "2015-07-28T05:00:00Z",
+              "gameVersionName": "1.8.8"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-02-21T00:00:00Z",
+              "gameVersionName": "1.19-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-07T00:00:00Z",
+              "gameVersionName": "1.21.1-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000010.0000000002",
+              "gameVersion": "1.10.2",
+              "gameVersionReleaseDate": "2016-06-23T05:00:00Z",
+              "gameVersionName": "1.10.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000004",
+              "gameVersion": "1.21.4",
+              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
+              "gameVersionName": "1.21.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000005",
+              "gameVersion": "1.21.5",
+              "gameVersionReleaseDate": "2025-01-10T00:00:00Z",
+              "gameVersionName": "1.21.5-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000003",
+              "gameVersion": "1.8.3",
+              "gameVersionReleaseDate": "2015-02-20T00:00:00Z",
+              "gameVersionName": "1.8.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000011",
+              "gameVersion": "1.11",
+              "gameVersionReleaseDate": "2016-11-14T06:00:00Z",
+              "gameVersionName": "1.11"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-10-05T00:00:00Z",
+              "gameVersionName": "1.20.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000006",
+              "gameVersion": "1.8.6",
+              "gameVersionReleaseDate": "2015-05-25T05:00:00Z",
+              "gameVersionName": "1.8.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000015.0000000002",
+              "gameVersion": "1.15.2",
+              "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+              "gameVersionName": "1.15.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014",
+              "gameVersion": "1.14",
+              "gameVersionReleaseDate": "2019-04-23T00:00:00Z",
+              "gameVersionName": "1.14"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000010",
+              "gameVersion": "1.10",
+              "gameVersionReleaseDate": "2016-06-08T05:00:00Z",
+              "gameVersionName": "1.10"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000010.0000000001",
+              "gameVersion": "1.10.1",
+              "gameVersionReleaseDate": "2016-06-22T05:00:00Z",
+              "gameVersionName": "1.10.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-05-04T00:00:00Z",
+              "gameVersionName": "1.21-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000003",
+              "gameVersion": "1.21.3",
+              "gameVersionReleaseDate": "2024-10-23T13:16:45.71Z",
+              "gameVersionName": "1.21.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000007",
+              "gameVersion": "1.21.7",
+              "gameVersionReleaseDate": "2025-06-30T14:45:05.54Z",
+              "gameVersionName": "1.21.7"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2022-10-27T00:00:00Z",
+              "gameVersionName": "1.20-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000006",
+              "gameVersion": "1.21.6",
+              "gameVersionReleaseDate": "2025-06-17T19:44:59.623Z",
+              "gameVersionName": "1.21.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008",
+              "gameVersion": "1.8",
+              "gameVersionReleaseDate": "2014-09-02T00:00:00Z",
+              "gameVersionName": "1.8"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000017",
+              "gameVersion": "1.17",
+              "gameVersionReleaseDate": "2021-03-18T00:00:00Z",
+              "gameVersionName": "1.17-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009",
+              "gameVersion": "1.9",
+              "gameVersionReleaseDate": "2015-08-05T05:00:00Z",
+              "gameVersionName": "1.9-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000002",
+              "gameVersion": "1.8.2",
+              "gameVersionReleaseDate": "2015-02-19T00:00:00Z",
+              "gameVersionName": "1.8.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000004",
+              "gameVersion": "1.16.4",
+              "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+              "gameVersionName": "1.16.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014.0000000002",
+              "gameVersion": "1.14.2",
+              "gameVersionReleaseDate": "2019-05-27T00:00:00Z",
+              "gameVersionName": "1.14.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+              "gameVersionName": "1.18-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000011.0000000001",
+              "gameVersion": "1.11.1",
+              "gameVersionReleaseDate": "2016-12-20T06:00:00Z",
+              "gameVersionName": "1.11.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000002",
+              "gameVersion": "1.16.2",
+              "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
+              "gameVersionName": "1.16.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000011.0000000002",
+              "gameVersion": "1.11.2",
+              "gameVersionReleaseDate": "2016-12-21T06:00:00Z",
+              "gameVersionName": "1.11.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009",
+              "gameVersion": "1.9",
+              "gameVersionReleaseDate": "2016-02-29T06:00:00Z",
+              "gameVersionName": "1.9"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000005",
+              "gameVersion": "1.8.5",
+              "gameVersionReleaseDate": "2015-05-22T05:00:00Z",
+              "gameVersionName": "1.8.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000011",
+              "gameVersion": "1.11",
+              "gameVersionReleaseDate": "2016-08-10T05:00:00Z",
+              "gameVersionName": "1.11-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012.0000000002",
+              "gameVersion": "1.12.2",
+              "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+              "gameVersionName": "1.12.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000004",
+              "gameVersion": "1.21.4",
+              "gameVersionReleaseDate": "2024-11-01T00:00:00Z",
+              "gameVersionName": "1.21.4-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000009",
+              "gameVersion": "1.8.9",
+              "gameVersionReleaseDate": "2015-12-09T06:00:00Z",
+              "gameVersionName": "1.8.9"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000001",
+              "gameVersion": "1.8.1",
+              "gameVersionReleaseDate": "2014-11-24T00:00:00Z",
+              "gameVersionName": "1.8.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000013",
+              "gameVersion": "1.13",
+              "gameVersionReleaseDate": "2017-11-23T06:00:00Z",
+              "gameVersionName": "1.13-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014",
+              "gameVersion": "1.14",
+              "gameVersionReleaseDate": "2018-10-24T00:00:00Z",
+              "gameVersionName": "1.14-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012",
+              "gameVersion": "1.12",
+              "gameVersionReleaseDate": "2017-02-28T06:00:00Z",
+              "gameVersionName": "1.12-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000013.0000000002",
+              "gameVersion": "1.13.2",
+              "gameVersionReleaseDate": "2018-10-22T00:00:00Z",
+              "gameVersionName": "1.13.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000015.0000000001",
+              "gameVersion": "1.15.1",
+              "gameVersionReleaseDate": "2019-12-17T00:00:00Z",
+              "gameVersionName": "1.15.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2023-01-01T00:00:00Z",
+              "gameVersionName": "1.19.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000002",
+              "gameVersion": "1.21.2",
+              "gameVersionReleaseDate": "2024-10-22T00:00:00Z",
+              "gameVersionName": "1.21.2"
+            }
+          ],
+          "gameVersions": [
+            "1.16-Snapshot",
+            "1.17.1",
+            "1.9.1",
+            "1.16.3",
+            "1.13.1",
+            "1.9.3",
+            "1.8.7",
+            "1.19.3",
+            "1.20.2",
+            "1.21.2-Snapshot",
+            "1.21",
+            "1.21.6-snapshot",
+            "1.15-Snapshot",
+            "1.16.1",
+            "1.18.1",
+            "1.19.4-Snapshot",
+            "1.20.5",
+            "1.21.5",
+            "1.10-Snapshot",
+            "1.9.4",
+            "1.9.2",
+            "1.8.4",
+            "1.14.4",
+            "1.14.1",
+            "1.12.1",
+            "1.17",
+            "1.12",
+            "1.20.2-Snapshot",
+            "1.20.5-Snapshot",
+            "1.14.3",
+            "1.15",
+            "1.16",
+            "1.13",
+            "1.19.4",
+            "Fabric",
+            "1.21.8",
+            "1.8.8",
+            "1.19-Snapshot",
+            "Client",
+            "1.21.1-Snapshot",
+            "1.16.5",
+            "1.10.2",
+            "1.21.4",
+            "1.21.5-Snapshot",
+            "1.8.3",
+            "1.11",
+            "1.18.2",
+            "1.19.2",
+            "NeoForge",
+            "1.20.3-Snapshot",
+            "1.20.3",
+            "1.8.6",
+            "1.15.2",
+            "1.14",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.6",
+            "1.10",
+            "1.10.1",
+            "1.19.1",
+            "1.20.4",
+            "1.21-Snapshot",
+            "1.21.3",
+            "1.21.7",
+            "1.20-Snapshot",
+            "1.21.1",
+            "1.21.6",
+            "1.8",
+            "1.17-Snapshot",
+            "1.18",
+            "1.9-Snapshot",
+            "1.8.2",
+            "1.16.4",
+            "1.14.2",
+            "Server",
+            "1.18-Snapshot",
+            "1.11.1",
+            "1.16.2",
+            "1.11.2",
+            "1.9",
+            "1.8.5",
+            "1.11-Snapshot",
+            "1.12.2",
+            "Quilt",
+            "1.19",
+            "1.21.4-Snapshot",
+            "1.8.9",
+            "1.8.1",
+            "1.13-Snapshot",
+            "1.14-Snapshot",
+            "1.12-Snapshot",
+            "1.13.2",
+            "1.15.1",
+            "1.19.3-Snapshot",
+            "1.21.2"
+          ],
+          "fileFingerprint": 2010534935,
+          "modId": 537533
+        },
+        "modrinthProject": {
+          "id": "2ecVyZ49",
+          "slug": "ksyxis",
+          "project_type": "mod",
+          "team": "dgnbkbrG",
+          "title": "Ksyxis",
+          "description": "Speed up your world loading by removing spawn chunks.",
+          "body": "> ⚠️ **Warning**\n> \n> Ksyxis **doesn't** work for **1.21.9 and newer** versions. Mojang *removed\n> spawn chunks* in 25w31a (a 1.21.9 snapshot), therefore removing spawn chunks\n> via mods is no longer needed, as this optimization is built-in into Minecraft.\n>\n> Removing other chunks (e.g., chunks around the player in singleplayer)\n> makes no sense, they will be loaded anyway when you join the server.\n>\n> Older Minecraft versions will be supported for a reasonable time.\n\n# Ksyxis\n\nSpeed up your world loading by removing spawn chunks.\n\n## Downloads\n\n- [Modrinth](https://modrinth.com/mod/ksyxis)\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis)\n- [GitHub Releases](https://github.com/VidTu/Ksyxis/releases)\n\n## Dependencies\n\nThis mod needs *Mixin* and nothing else.\nUsually, it is provided by your mod loader.\n\n- Fabric Loader, Quilt Loader, Forge, NeoForge, Legacy Fabric, or Ornithe\n- Minecraft (1.8 -> 1.21.8)\n- **Forge 1.8-1.15.2 only**: Any Mixin provider, at your choice (such as\n  [MixinBootstrap](https://modrinth.com/mod/mixinbootstrap),\n  [MixinBooter](https://modrinth.com/mod/mixinbooter),\n  [UniMixins](https://modrinth.com/mod/unimixins), or any other)\n\nFabric API is **NOT** required.\n\n## About\n\nMinecraft has a concept of [spawn chunks](https://minecraft.wiki/w/Spawn_chunk).\nThese chunks are located at the world creation point (where you have been\nspawned for the first time) and are always loaded. Depending on the version,\nthere are either 441 or 25 spawn chunks always loaded while you're playing.\nMost players, however, don't need these chunks as they venture far away from\nspawn and come back only occasionally. To these players, the creation and\nloading of spawn chunks is a waste of time and performance. This mod\ncompletely disables spawn chunks in the game.\n\n*Note*: Spawn chunks are sometimes used by farms and technical contraptions.\nIf you'll need them, you can always delete\nthe mod later to re-enable the spawn chunks.\n\n![Ksyxis Demo GIF](https://i.imgur.com/WR3dl85.gif)\n\n## FAQ\n\n**Q**: I need help, have some questions, or have some other feedback.  \n**A**: You can join the [Discord server](https://discord.gg/Q6saSVSuYQ).\n\n**Q**: Where can I download this mod?  \n**A**: [Modrinth](https://modrinth.com/mod/ksyxis),\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis),\nor [GitHub Releases](https://github.com/VidTu/Ksyxis/releases).\nYou can also find unstable builds at\n[GitHub Actions](https://github.com/VidTu/Ksyxis/actions).\nYou will need a GitHub account to download these.\n\n**Q**: This mod doesn't speed up anything.  \n**A**: The effect may not be noticeable on high-end PCs. This mod is designed\nprimarily for low-end devices. Nevertheless, there is\n[a video](https://www.youtube.com/watch?v=PXWdDoVU1C4).\n\n**Q**: Which mod loaders are supported?  \n**A**: Forge, Fabric, Quilt, NeoForge, Legacy Fabric,\nand Ornithe (for both Fabric and Quilt).\n\n**Q**: Which Minecraft versions are supported?  \n**A**: Minecraft 1.8 through 1.21.8 are supported.\n1.21.9 and newer are **not** supported.\n\n**Q**: Where are the Forge, Fabric, Quilt, NeoForge, etc. versions?  \n**A**: All in the same file.\n\n**Q**: Do I need Fabric API or Quilt Standard Libraries?  \n**A**: No, but you can install these for other mods.\n\n**Q**: Is this mod open source?  \n**A**: [Yes.](https://github.com/VidTu/Ksyxis) (Licensed\nunder [MIT License](https://github.com/VidTu/Ksyxis/blob/main/LICENSE))\n\n**Q**: Is this mod stable for use?  \n**A**: It should be. No guarantee, though. At least it should not break your\nworlds. You can always uninstall the mod and load worlds without Ksyxis.\n\n**Q**: Is this mod client-side or server-side?  \n**A**: This mod works on the logical server side. That is, it does have an\neffect in singleplayer and on a dedicated (standalone) server. It has no effect\non the client when playing in multiplayer. You can install it into your client\nor your server without any need for it to be installed on the other side.\n\n**Q**: How to force-load chunks if the spawn chunks have been removed?  \n**A**: If you really need to force-load chunks, load individual chunks with the\n`/forceload` command in 1.13 or newer. For older versions, you can search for\nsome mod that force-loads chunks.\n\n**Q**: I've found a bug.  \n**A**: Report it [here](https://github.com/VidTu/Ksyxis/issues). If you are not\nsure whether this is a bug or a simple question, you can join the\n[Discord](https://discord.gg/Q6saSVSuYQ). Report security vulnerabilities\n[here](https://github.com/VidTu/Ksyxis/security).\n\n**Q**: Can I use this in my modpack?  \n**A**: Sure. Credit (e.g., a link to the mod's GitHub page) is appreciated but\nis not required. Monetization and redistribution are allowed as per the\n[MIT License](https://github.com/VidTu/Ksyxis/blob/main/LICENSE).\n\n**Q**: It says *Ksyxis: No Mixin found*.  \n**A**: If you're using Forge 1.15.2 or older, you may need to install\n[MixinBootstrap](https://modrinth.com/mod/mixinbootstrap)\n[MixinBooter](https://modrinth.com/mod/mixinbooter),\n[UniMixins](https://modrinth.com/mod/unimixins), or any other Mixin provider\nof your choice. If you're using Forge 1.16 or newer, or any version of\nFabric/Quilt/NeoForge/Ornithe, you don't need to install anything,\nand this is a bug.\n\n## License\n\nThis project is provided under the MIT License.\nCheck out [LICENSE](https://github.com/VidTu/Ksyxis/blob/main/LICENSE)\nfor more information.\n\n## Development\n\nCheck out [README](https://github.com/VidTu/Ksyxis#Development) on GitHub.\n",
+          "published": "2021-10-16T22:17:54.245733Z",
+          "updated": "2025-07-31T10:06:08.088076Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/VidTu/Ksyxis/raw/refs/heads/main/LICENSE"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "optimization",
+            "utility",
+            "worldgen"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "legacy-fabric",
+            "neoforge",
+            "ornithe",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/2ecVyZ49/e7c3867d7a7da57f987bc0d6d37de88020c626a5_96.webp",
+          "issues_url": "https://github.com/VidTu/Ksyxis/issues",
+          "source_url": "https://github.com/VidTu/Ksyxis",
+          "discord_url": "https://discord.gg/Q6saSVSuYQ",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "vCQj9Ui7",
+          "project_id": "2ecVyZ49",
+          "author_id": "7nbTzIvd",
+          "name": "Ksyxis 1.3.4",
+          "version_number": "1.3.4",
+          "changelog": "What's new:\n\n- Explicitly marked versions newer than 1.21.8 as unsupported. Spawn chunks were removed in the 25w31a snapshot, therefore the mod is now useless. (issue: [#85](https://github.com/VidTu/Ksyxis/issues/85))\n- Added a logging marker to every logging call in the mod. Improved logging in general.\n- Added [reproducible builds](https://reproducible-builds.org/) support.\n- Internal code changes.\n\n**Full Changelog**: [1.3.3...1.3.4](https://github.com/VidTu/Ksyxis/compare/1.3.3...1.3.4)\n\nReproducible Build SHA256: `7457f96dc1ef9f9c78307dba345e01ab8b8a0518a39fbb71d96e30abba888f0b`\n",
+          "date_published": "2025-07-31T10:06:08.088076Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "143fe088170e5777d3ccf5b488d61ee3635ebffe",
+                "sha512": "f085627a6dd242bec916fc5dbec5694733f3a44e7826f51ba64887ae50860b5b6e9f89ceac4ca9beefee356c428211260ce4a40bee6bb136bfe636c42753c972"
+              },
+              "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/vCQj9Ui7/Ksyxis-1.3.4.jar",
+              "filename": "Ksyxis-1.3.4.jar",
+              "primary": true,
+              "size": 29869
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.8",
+            "1.8.1-pre1",
+            "1.8.1-pre2",
+            "1.8.1-pre3",
+            "1.8.1-pre4",
+            "1.8.1-pre5",
+            "1.8.1",
+            "1.8.2-pre1",
+            "1.8.2-pre2",
+            "1.8.2-pre3",
+            "1.8.2-pre4",
+            "1.8.2-pre5",
+            "1.8.2-pre6",
+            "1.8.2-pre7",
+            "1.8.2",
+            "1.8.3",
+            "15w14a",
+            "1.8.4",
+            "1.8.5",
+            "1.8.6",
+            "1.8.7",
+            "1.8.8",
+            "15w31a",
+            "15w31b",
+            "15w31c",
+            "15w32a",
+            "15w32b",
+            "15w32c",
+            "15w33a",
+            "15w33b",
+            "15w33c",
+            "15w34a",
+            "15w34b",
+            "15w34c",
+            "15w34d",
+            "15w35a",
+            "15w35b",
+            "15w35c",
+            "15w35d",
+            "15w35e",
+            "15w36a",
+            "15w36b",
+            "15w36c",
+            "15w36d",
+            "15w37a",
+            "15w38a",
+            "15w38b",
+            "15w39a",
+            "15w39b",
+            "15w39c",
+            "15w40a",
+            "15w40b",
+            "15w41a",
+            "15w41b",
+            "15w42a",
+            "15w43a",
+            "15w43b",
+            "15w43c",
+            "15w44a",
+            "15w44b",
+            "15w45a",
+            "15w46a",
+            "15w47a",
+            "15w47b",
+            "15w47c",
+            "15w49a",
+            "1.8.9",
+            "15w49b",
+            "15w50a",
+            "15w51a",
+            "15w51b",
+            "16w02a",
+            "16w03a",
+            "16w04a",
+            "16w05a",
+            "16w05b",
+            "16w06a",
+            "16w07a",
+            "16w07b",
+            "1.9-pre1",
+            "1.9-pre2",
+            "1.9-pre3",
+            "1.9-pre4",
+            "1.9",
+            "1.9.1-pre1",
+            "1.9.1-pre2",
+            "1.9.1-pre3",
+            "1.9.1",
+            "1.9.2",
+            "1.RV-Pre1",
+            "16w14a",
+            "16w15a",
+            "16w15b",
+            "1.9.3-pre1",
+            "1.9.3-pre2",
+            "1.9.3-pre3",
+            "1.9.3",
+            "1.9.4",
+            "16w20a",
+            "16w21a",
+            "16w21b",
+            "1.10-pre1",
+            "1.10-pre2",
+            "1.10",
+            "1.10.1",
+            "1.10.2",
+            "16w32a",
+            "16w32b",
+            "16w33a",
+            "16w35a",
+            "16w36a",
+            "16w38a",
+            "16w39a",
+            "16w39b",
+            "16w39c",
+            "16w40a",
+            "16w41a",
+            "16w42a",
+            "16w43a",
+            "16w44a",
+            "1.11-pre1",
+            "1.11",
+            "16w50a",
+            "1.11.1",
+            "1.11.2",
+            "17w06a",
+            "17w13a",
+            "17w13b",
+            "17w14a",
+            "17w15a",
+            "17w16a",
+            "17w16b",
+            "17w17a",
+            "17w17b",
+            "17w18a",
+            "17w18b",
+            "1.12-pre1",
+            "1.12-pre2",
+            "1.12-pre3",
+            "1.12-pre4",
+            "1.12-pre5",
+            "1.12-pre6",
+            "1.12-pre7",
+            "1.12",
+            "17w31a",
+            "1.12.1-pre1",
+            "1.12.1",
+            "1.12.2-pre1",
+            "1.12.2-pre2",
+            "1.12.2",
+            "17w43a",
+            "17w43b",
+            "17w45a",
+            "17w45b",
+            "17w46a",
+            "17w47a",
+            "17w47b",
+            "17w48a",
+            "17w49a",
+            "17w49b",
+            "17w50a",
+            "18w01a",
+            "18w02a",
+            "18w03a",
+            "18w03b",
+            "18w05a",
+            "18w06a",
+            "18w07a",
+            "18w07b",
+            "18w07c",
+            "18w08a",
+            "18w08b",
+            "18w09a",
+            "18w10a",
+            "18w10b",
+            "18w10c",
+            "18w10d",
+            "18w11a",
+            "18w14a",
+            "18w14b",
+            "18w15a",
+            "18w16a",
+            "18w19a",
+            "18w19b",
+            "18w20a",
+            "18w20b",
+            "18w20c",
+            "18w21a",
+            "18w21b",
+            "18w22a",
+            "18w22b",
+            "18w22c",
+            "1.13-pre1",
+            "1.13-pre2",
+            "1.13-pre3",
+            "1.13-pre4",
+            "1.13-pre5",
+            "1.13-pre6",
+            "1.13-pre7",
+            "1.13-pre8",
+            "1.13-pre9",
+            "1.13-pre10",
+            "1.13",
+            "18w30a",
+            "18w30b",
+            "18w31a",
+            "18w32a",
+            "18w33a",
+            "1.13.1-pre1",
+            "1.13.1-pre2",
+            "1.13.1",
+            "1.13.2-pre1",
+            "1.13.2-pre2",
+            "1.13.2",
+            "18w43a",
+            "18w43b",
+            "18w43c",
+            "18w44a",
+            "18w45a",
+            "18w46a",
+            "18w47a",
+            "18w47b",
+            "18w48a",
+            "18w48b",
+            "18w49a",
+            "18w50a",
+            "19w02a",
+            "19w03a",
+            "19w03b",
+            "19w03c",
+            "19w04a",
+            "19w04b",
+            "19w05a",
+            "19w06a",
+            "19w07a",
+            "19w08a",
+            "19w08b",
+            "19w09a",
+            "19w11a",
+            "19w11b",
+            "19w12a",
+            "19w12b",
+            "19w13a",
+            "19w13b",
+            "3D-Shareware-v1.34",
+            "19w14a",
+            "19w14b",
+            "1.14-pre1",
+            "1.14-pre2",
+            "1.14-pre3",
+            "1.14-pre4",
+            "1.14-pre5",
+            "1.14",
+            "1.14.1-pre1",
+            "1.14.1-pre2",
+            "1.14.1",
+            "1.14.2-pre1",
+            "1.14.2-pre2",
+            "1.14.2-pre3",
+            "1.14.2-pre4",
+            "1.14.2",
+            "1.14.3-pre1",
+            "1.14.3-pre2",
+            "1.14.3-pre3",
+            "1.14.3-pre4",
+            "1.14.3",
+            "1.14.4-pre1",
+            "1.14.4-pre2",
+            "1.14.4-pre3",
+            "1.14.4-pre4",
+            "1.14.4-pre5",
+            "1.14.4-pre6",
+            "1.14.4-pre7",
+            "1.14.4",
+            "19w34a",
+            "19w35a",
+            "19w36a",
+            "19w37a",
+            "19w38a",
+            "19w38b",
+            "19w39a",
+            "19w40a",
+            "19w41a",
+            "19w42a",
+            "19w44a",
+            "19w45a",
+            "19w45b",
+            "19w46a",
+            "19w46b",
+            "1.15-pre1",
+            "1.15-pre2",
+            "1.15-pre3",
+            "1.15-pre4",
+            "1.15-pre5",
+            "1.15-pre6",
+            "1.15-pre7",
+            "1.15",
+            "1.15.1-pre1",
+            "1.15.1",
+            "1.15.2-pre1",
+            "1.15.2-pre2",
+            "1.15.2",
+            "20w06a",
+            "20w07a",
+            "20w08a",
+            "20w09a",
+            "20w10a",
+            "20w11a",
+            "20w12a",
+            "20w13a",
+            "20w13b",
+            "20w14infinite",
+            "20w14a",
+            "20w15a",
+            "20w16a",
+            "20w17a",
+            "20w18a",
+            "20w19a",
+            "20w20a",
+            "20w20b",
+            "20w21a",
+            "20w22a",
+            "1.16-pre1",
+            "1.16-pre2",
+            "1.16-pre3",
+            "1.16-pre4",
+            "1.16-pre5",
+            "1.16-pre6",
+            "1.16-pre7",
+            "1.16-pre8",
+            "1.16-rc1",
+            "1.16",
+            "1.16.1",
+            "20w27a",
+            "20w28a",
+            "20w29a",
+            "20w30a",
+            "1.16.2-pre1",
+            "1.16.2-pre2",
+            "1.16.2-pre3",
+            "1.16.2-rc1",
+            "1.16.2-rc2",
+            "1.16.2",
+            "1.16.3-rc1",
+            "1.16.3",
+            "1.16.4-pre1",
+            "1.16.4-pre2",
+            "1.16.4-rc1",
+            "1.16.4",
+            "20w45a",
+            "20w46a",
+            "20w48a",
+            "20w49a",
+            "20w51a",
+            "1.16.5-rc1",
+            "1.16.5",
+            "21w03a",
+            "21w05a",
+            "21w05b",
+            "21w06a",
+            "21w07a",
+            "21w08a",
+            "21w08b",
+            "21w10a",
+            "21w11a",
+            "21w13a",
+            "21w14a",
+            "21w15a",
+            "21w16a",
+            "21w17a",
+            "21w18a",
+            "21w19a",
+            "21w20a",
+            "1.17-pre1",
+            "1.17-pre2",
+            "1.17-pre3",
+            "1.17-pre4",
+            "1.17-pre5",
+            "1.17-rc1",
+            "1.17-rc2",
+            "1.17",
+            "1.17.1-pre1",
+            "1.17.1-pre2",
+            "1.17.1-pre3",
+            "1.17.1-rc1",
+            "1.17.1-rc2",
+            "1.17.1",
+            "21w37a",
+            "21w38a",
+            "21w39a",
+            "21w40a",
+            "21w41a",
+            "21w42a",
+            "21w43a",
+            "21w44a",
+            "1.18-pre1",
+            "1.18-pre2",
+            "1.18-pre3",
+            "1.18-pre4",
+            "1.18-pre5",
+            "1.18-pre6",
+            "1.18-pre7",
+            "1.18-pre8",
+            "1.18-rc1",
+            "1.18-rc2",
+            "1.18-rc3",
+            "1.18-rc4",
+            "1.18",
+            "1.18.1-pre1",
+            "1.18.1-rc1",
+            "1.18.1-rc2",
+            "1.18.1-rc3",
+            "1.18.1",
+            "22w03a",
+            "22w05a",
+            "22w06a",
+            "22w07a",
+            "1.18.2-pre1",
+            "1.18.2-pre2",
+            "1.18.2-pre3",
+            "1.18.2-rc1",
+            "1.18.2",
+            "22w11a",
+            "22w12a",
+            "22w13a",
+            "22w13oneblockatatime",
+            "22w14a",
+            "22w15a",
+            "22w16a",
+            "22w16b",
+            "22w17a",
+            "22w18a",
+            "22w19a",
+            "1.19-pre1",
+            "1.19-pre2",
+            "1.19-pre3",
+            "1.19-pre4",
+            "1.19-pre5",
+            "1.19-rc1",
+            "1.19-rc2",
+            "1.19",
+            "22w24a",
+            "1.19.1-pre1",
+            "1.19.1-rc1",
+            "1.19.1-pre2",
+            "1.19.1-pre3",
+            "1.19.1-pre4",
+            "1.19.1-pre5",
+            "1.19.1-pre6",
+            "1.19.1-rc2",
+            "1.19.1-rc3",
+            "1.19.1",
+            "1.19.2-rc1",
+            "1.19.2-rc2",
+            "1.19.2",
+            "22w42a",
+            "22w43a",
+            "22w44a",
+            "22w45a",
+            "22w46a",
+            "1.19.3-pre1",
+            "1.19.3-pre2",
+            "1.19.3-pre3",
+            "1.19.3-rc1",
+            "1.19.3-rc2",
+            "1.19.3-rc3",
+            "1.19.3",
+            "23w03a",
+            "23w04a",
+            "23w05a",
+            "23w06a",
+            "23w07a",
+            "1.19.4-pre1",
+            "1.19.4-pre2",
+            "1.19.4-pre3",
+            "1.19.4-pre4",
+            "1.19.4-rc1",
+            "1.19.4-rc2",
+            "1.19.4-rc3",
+            "1.19.4",
+            "23w12a",
+            "23w13a",
+            "23w13a_or_b",
+            "23w14a",
+            "23w16a",
+            "23w17a",
+            "23w18a",
+            "1.20-pre1",
+            "1.20-pre2",
+            "1.20-pre3",
+            "1.20-pre4",
+            "1.20-pre5",
+            "1.20-pre6",
+            "1.20-pre7",
+            "1.20-rc1",
+            "1.20",
+            "1.20.1-rc1",
+            "1.20.1",
+            "23w31a",
+            "23w32a",
+            "23w33a",
+            "23w35a",
+            "1.20.2-pre1",
+            "1.20.2-pre2",
+            "1.20.2-pre3",
+            "1.20.2-pre4",
+            "1.20.2-rc1",
+            "1.20.2-rc2",
+            "1.20.2",
+            "23w40a",
+            "23w41a",
+            "23w42a",
+            "23w43a",
+            "23w43b",
+            "23w44a",
+            "23w45a",
+            "23w46a",
+            "1.20.3-pre1",
+            "1.20.3-pre2",
+            "1.20.3-pre3",
+            "1.20.3-pre4",
+            "1.20.3-rc1",
+            "1.20.3",
+            "1.20.4-rc1",
+            "1.20.4",
+            "23w51a",
+            "23w51b",
+            "24w03a",
+            "24w03b",
+            "24w04a",
+            "24w05a",
+            "24w05b",
+            "24w06a",
+            "24w07a",
+            "24w09a",
+            "24w10a",
+            "24w11a",
+            "24w12a",
+            "24w13a",
+            "24w14potato",
+            "24w14a",
+            "1.20.5-pre1",
+            "1.20.5-pre2",
+            "1.20.5-pre3",
+            "1.20.5-pre4",
+            "1.20.5-rc1",
+            "1.20.5-rc2",
+            "1.20.5-rc3",
+            "1.20.5",
+            "1.20.6-rc1",
+            "1.20.6",
+            "24w18a",
+            "24w19a",
+            "24w19b",
+            "24w20a",
+            "24w21a",
+            "24w21b",
+            "1.21-pre1",
+            "1.21-pre2",
+            "1.21-pre3",
+            "1.21-pre4",
+            "1.21-rc1",
+            "1.21",
+            "1.21.1-rc1",
+            "1.21.1",
+            "24w33a",
+            "24w34a",
+            "24w35a",
+            "24w36a",
+            "24w37a",
+            "24w38a",
+            "24w39a",
+            "24w40a",
+            "1.21.2-pre1",
+            "1.21.2-pre2",
+            "1.21.2-pre3",
+            "1.21.2-pre4",
+            "1.21.2-pre5",
+            "1.21.2-rc1",
+            "1.21.2-rc2",
+            "1.21.2",
+            "1.21.3",
+            "24w44a",
+            "24w45a",
+            "24w46a",
+            "1.21.4-pre1",
+            "1.21.4-pre2",
+            "1.21.4-pre3",
+            "1.21.4-rc1",
+            "1.21.4-rc2",
+            "1.21.4-rc3",
+            "1.21.4",
+            "25w02a",
+            "25w03a",
+            "25w04a",
+            "25w05a",
+            "25w06a",
+            "25w07a",
+            "25w08a",
+            "25w09a",
+            "25w09b",
+            "25w10a",
+            "1.21.5-pre1",
+            "1.21.5-pre2",
+            "1.21.5-pre3",
+            "1.21.5-rc1",
+            "1.21.5-rc2",
+            "1.21.5",
+            "25w15a",
+            "25w16a",
+            "25w17a",
+            "25w18a",
+            "25w19a",
+            "25w20a",
+            "25w21a",
+            "1.21.6-pre1",
+            "1.21.6-pre2",
+            "1.21.6-pre3",
+            "1.21.6-pre4",
+            "1.21.6-rc1",
+            "1.21.6",
+            "1.21.7-rc1",
+            "1.21.7-rc2",
+            "1.21.7",
+            "1.21.8-rc1",
+            "1.21.8"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "legacy-fabric",
+            "neoforge",
+            "ornithe",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Create: Power Loader",
+        "version": "create_power_loader 2.0.3-mc1.21.1",
+        "optional": true,
+        "file": "create_power_loader-2.0.3-mc1.21.1.jar",
+        "type": "mods",
+        "description": "A Create mod add-on adding immersive chunk loaders.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 936020,
+        "curseForgeFileId": 6549980,
+        "curseForgeProject": {
+          "id": 936020,
+          "name": "Create: Power Loader",
+          "authors": [
+            {
+              "id": 106045155,
+              "name": "Lysine",
+              "url": "https://www.curseforge.com/members/lysine"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Create mod add-on adding immersive chunk loaders.",
+          "categories": [
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-power-loader",
+          "isFeatured": false,
+          "dateModified": "2025-05-20T10:48:21.707Z",
+          "dateCreated": "2023-11-12T10:34:02.663Z",
+          "dateReleased": "2025-05-20T10:39:23.543Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-power-loader",
+            "wikiUrl": "https://github.com/hlysine/create_power_loader/wiki",
+            "issuesUrl": "https://github.com/hlysine/create_power_loader/issues",
+            "sourceUrl": "https://github.com/hlysine/create_power_loader"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/3AvrppcgG3"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/hlysine/create_power_loader/"
+            }
+          ],
+          "logo": {
+            "id": 903443,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
+            "title": "638352779105838214.png",
+            "url": "https://media.forgecdn.net/avatars/903/443/638352779105838214.png",
+            "modId": 936020
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 809956,
+              "description": "Attaching a Chunk Loader to a Train Station allows chunks to only be loaded when a train arrives.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/809/956/310/172/train-attachment.png",
+              "title": "Pondering about Train Station Attachment",
+              "url": "https://media.forgecdn.net/attachments/809/956/train-attachment.png",
+              "modId": 936020
+            },
+            {
+              "id": 757319,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/757/319/310/172/screenshot-2023-11-11-143830.png",
+              "title": "Brass and Andesite Chunk Loader",
+              "url": "https://media.forgecdn.net/attachments/757/319/screenshot-2023-11-11-143830.png",
+              "modId": 936020
+            },
+            {
+              "id": 757320,
+              "description": "The loading range of a brass chunk loader can be configured via its value panel. Possible ranges are 1x1, 3x3 and 5x5. Rotation speed requirement scales with loading range.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/757/320/310/172/screenshot-2023-11-11-144004.png",
+              "title": "Configurable Brass Chunk Loader",
+              "url": "https://media.forgecdn.net/attachments/757/320/screenshot-2023-11-11-144004.png",
+              "modId": 936020
+            },
+            {
+              "id": 757322,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/757/322/310/172/screenshot-2023-11-11-150009.png",
+              "title": "Pondering about the Brass Chunk Loaders",
+              "url": "https://media.forgecdn.net/attachments/757/322/screenshot-2023-11-11-150009.png",
+              "modId": 936020
+            },
+            {
+              "id": 757330,
+              "description": "The brass chunk loader functions on all types of contraptions",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/757/330/310/172/screenshot-2023-11-11-150312.png",
+              "title": "Brass Chunk Loader on Contraptions",
+              "url": "https://media.forgecdn.net/attachments/757/330/screenshot-2023-11-11-150312.png",
+              "modId": 936020
+            },
+            {
+              "id": 759421,
+              "description": "Capture a Ghast with this item to get a functional chunk loader.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/759/421/310/172/screenshot-2023-11-15-164315.png",
+              "title": "Default Recipe for the Empty Andesite Chunk Loader",
+              "url": "https://media.forgecdn.net/attachments/759/421/screenshot-2023-11-15-164315.png",
+              "modId": 936020
+            },
+            {
+              "id": 759422,
+              "description": "Capture a Ghast with this item to get a functional chunk loader.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/759/422/310/172/screenshot-2023-11-15-164344.png",
+              "title": "Default Recipe for the Empty Brass Chunk Loader",
+              "url": "https://media.forgecdn.net/attachments/759/422/screenshot-2023-11-15-164344.png",
+              "modId": 936020
+            },
+            {
+              "id": 759423,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/759/423/310/172/screenshot-2023-11-15-164207.png",
+              "title": "Pondering about Ghast Capturing",
+              "url": "https://media.forgecdn.net/attachments/759/423/screenshot-2023-11-15-164207.png",
+              "modId": 936020
+            }
+          ],
+          "mainFileId": 6549987
+        },
+        "curseForgeFile": {
+          "id": 6549980,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "create_power_loader 2.0.3-mc1.21.1",
+          "fileName": "create_power_loader-2.0.3-mc1.21.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-05-20T10:36:18.507Z",
+          "fileLength": 404692,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2544780670,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 883413500,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1362389909,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 2310037245,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 217246949,
+              "name": "create_power_loader.mixins.json"
+            },
+            {
+              "fingerprint": 182374088,
+              "name": "create_power_loader_icon.png"
+            },
+            {
+              "fingerprint": 125618778,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3360149706,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d7197ab489c30761dadfb7ef963b99bc8d505df1",
+              "algo": 1
+            },
+            {
+              "value": "7880bbdd1ab3cd2ce24503311112ae2f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 4153173003,
+          "modId": 936020
+        },
+        "modrinthProject": {
+          "id": "wPQ6GgFE",
+          "slug": "create-power-loader",
+          "project_type": "mod",
+          "team": "p9qS5moJ",
+          "title": "Create: Power Loader",
+          "description": "A Create mod add-on adding immersive chunk loaders.",
+          "body": "<h1 align=\"center\">Create: Power Loader</h1>\n\n<p align=\"center\">\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-power-loader/files\"><img src=\"https://cf.way2muchnoise.eu/versions/936020_all.svg\"></a>\n    <a href=\"https://modrinth.com/mod/create-power-loader/\"><img src=\"https://img.shields.io/modrinth/dt/wPQ6GgFE?style=flat&label=Modrinth\"></a>\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-power-loader\"><img src=\"https://img.shields.io/curseforge/dt/936020?style=flat&label=CurseForge\"></a>\n</p>\n\nA Create mod add-on adding immersive andesite and brass chunk loaders to Minecraft.\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/cd02548b-be01-4a01-b707-ffcb913f5299.webp)](https://bisecthosting.com/lysine)\n\n> **Want more Create-esque QoL items? Check out [Create: Connected](https://modrinth.com/mod/create-connected)**\n\n[![Available for Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)](https://modrinth.com/mod/create-power-loader/) [![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://modrinth.com/mod/create-power-loader-fabric)\n\n## Create 6 and Minecraft 1.21\n\n**Minecraft 1.20.1: ✅ Available**\n\n**Minecraft 1.21.1: ✅ Available**\n\n## What's new in 2.0.0\n\n**Support for Create 6.0.0**\n\nSupport for Create 0.5.1 and Minecraft 1.18/1.19 has been dropped. Please use Create: Power Loader v1 if you are using Create 0.5.1.\n\n## Features\n\n> Check out the [Wiki](https://github.com/hlysine/create_power_loader/wiki) for more info!\n\n- 2 tiers of chunk loaders\n    - Brass chunk loader: configurable loading range (1x1 to 5x5)\n    - Andesite chunk loader: loads a single chunk\n- Works on the ground, on trains and on contraptions\n    - Configurable via server configs\n    - Toggleable in-game via contraption controls\n- Attaches to Train Stations for lag-friendly chunk loading\n- Reliable chunk loading and unloading\n- Lots of configs for customization\n- Complete ponder scenes\n\n![Train Attachment Ponder](https://cdn.modrinth.com/data/wPQ6GgFE/images/0cdf2fecd6253f267cf32103e51a062b78ffaace.png)\n\n![powerloader list command](https://github.com/hlysine/create_power_loader/assets/25472513/e28c9b7c-fa27-4ac1-aaf5-2500771439bd)\n\n*If the provided crafting recipes do not suit your needs, you can override the provided recipes by creating your own datapack.*\n\n## Usage\n\n**In modpacks:**\n\n- You can include this mod in any modpacks.\n- You can make any modifications to the mod with the goal of distributing it in a modpack.\n\n**In other cases:**\n\n- You can use this mod however you like as long as you obtain the mod via its Modrinth or CurseForge page.\n- You can make any modifications to the mod, but you cannot redistribute it unless you have modified a substantial portion of the mod's code. Changes to resource packs/data packs/mod metadata do not count as code modification.\n\nThis mod is open to suggestions, so if you have made any modification to the mod, please leave an issue/PR so I can consider adding your use case to the mod.\n\n## Support\n\nThe best way to support my work is to simply download this mod on [**Modrinth**](https://modrinth.com/mod/create-power-loader). (You've come to the right place!)\nEnjoy a smoother download experience and support open source software with a single click.\n\nIf you would like to offer more direct support, you can [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O2TL8YV)\n\n## Credits\n\n**Source code**\n\n- [AyOhEe](https://github.com/AyOhEe) - Neoforge 1.21.1 port\n\n**Translation**\n\n- [Huantanhua](https://github.com/Huantanhua) for Simplified Chinese translations\n- [Abbage230](https://github.com/Abbage230) for Japanese translations\n\n**Inspiration**\n\nThe [Create mod](https://github.com/Creators-of-Create/Create) and the [Create Chunkloading mod](https://github.com/embeddedt/CreateChunkloading)\n",
+          "published": "2023-11-11T04:49:08.267071Z",
+          "updated": "2025-05-20T10:39:21.753803Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/hlysine/create_power_loader/blob/main/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/wPQ6GgFE/2f6c7a922eeb1b1064737e95b3ba1794b0c2c980.png",
+          "issues_url": "https://github.com/hlysine/create_power_loader/issues",
+          "source_url": "https://github.com/hlysine/create_power_loader",
+          "wiki_url": "https://github.com/hlysine/create_power_loader/wiki",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/lysine"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/8b93f46a413d928743525bcff2e3d9237f9b1e73_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/b9cd9c46648d8b4c49660e713e2ad177cd316364.png",
+              "featured": true,
+              "title": "Brass and Andesite Chunk Loaders",
+              "created": "2023-11-11T07:04:42.680744Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/e1e3dde179adfb8edb5822aa20d77772b05b73ed_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/0cdf2fecd6253f267cf32103e51a062b78ffaace.png",
+              "featured": false,
+              "title": "Pondering about Train Station Attachment",
+              "description": "Attaching a Chunk Loader to a Train Station allows chunks to only be loaded when a train arrives.",
+              "created": "2024-01-04T07:33:01.036817Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/55fb1c5a83c33f37efd8c4008d4b157142ed251a_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/55fb1c5a83c33f37efd8c4008d4b157142ed251a.png",
+              "featured": false,
+              "title": "Configurable Brass Chunk Loader",
+              "description": "The loading range of a brass chunk loader can be configured via its value panel. Possible ranges are 1x1, 3x3 and 5x5. Rotation speed requirement scales with loading range.",
+              "created": "2023-11-11T07:07:43.873195Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/d784f06ffe8c3e3f6ee048e5042b54fc79aad7cc_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/d784f06ffe8c3e3f6ee048e5042b54fc79aad7cc.png",
+              "featured": false,
+              "title": "Pondering about the Brass Chunk Loader",
+              "created": "2023-11-11T07:07:58.329663Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/c94a9226463c75a912bec816f74b2176aaf0d6fc_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/c94a9226463c75a912bec816f74b2176aaf0d6fc.png",
+              "featured": false,
+              "title": "Brass Chunk Loader on Contraptions",
+              "description": "The brass chunk loader functions on all types of contraptions",
+              "created": "2023-11-11T07:08:28.384357Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/92ffa6a64487d944498397848f7097a4bf6b9c2c.png",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/92ffa6a64487d944498397848f7097a4bf6b9c2c.png",
+              "featured": false,
+              "title": "Default Recipe for the Empty Andesite Chunk Loader",
+              "description": "Capture a Ghast with this item to get a functional chunk loader.",
+              "created": "2023-11-15T08:59:36.399354Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/0963778ccf56117e64ef31fec79f597459891427.png",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/0963778ccf56117e64ef31fec79f597459891427.png",
+              "featured": false,
+              "title": "Default Recipe for the Empty Brass Chunk Loader",
+              "description": "Capture a Ghast with this item to get a functional chunk loader.",
+              "created": "2023-11-15T09:01:09.823203Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/981c9cc2e2a29e795463d768e45a6d8c320ce3d9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wPQ6GgFE/images/981c9cc2e2a29e795463d768e45a6d8c320ce3d9.png",
+              "featured": false,
+              "title": "Pondering about Ghast Capturing",
+              "created": "2023-11-15T09:02:18.496365Z",
+              "ordering": 6.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ydVSjzJR",
+          "project_id": "wPQ6GgFE",
+          "author_id": "xBrWDFOf",
+          "name": "create_power_loader 2.0.3-mc1.21.1",
+          "version_number": "2.0.3-mc1.21.1",
+          "changelog": "## NOTE: Create: Power Loader 2.0.0 or above only works with Create 6.0.0 or above!\n\nCheck out the detailed changelog at https://github.com/hlysine/create_power_loader/blob/main/CHANGELOG.md",
+          "date_published": "2025-05-20T10:36:17.005464Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d7197ab489c30761dadfb7ef963b99bc8d505df1",
+                "sha512": "b0552ff1fa0d23dddd66b425a5454784f373b635a730892675921c90d2ad288164f483fe53f13b79ce60317d5456c8cd9c6308ec3806bbf10b12674b8b94e77a"
+              },
+              "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/ydVSjzJR/create_power_loader-2.0.3-mc1.21.1.jar",
+              "filename": "create_power_loader-2.0.3-mc1.21.1.jar",
+              "primary": true,
+              "size": 404692
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Create: Misc and Things",
+        "version": "[update 6 ✓][1.21.1] Create Misc and Things 4.0",
+        "optional": true,
+        "file": "create_things_and_misc-4.0-neoforge-1.21.1.jar",
+        "type": "mods",
+        "description": "🔧 Add useful and fun things to Create",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 652202,
+        "curseForgeFileId": 6267546,
+        "curseForgeProject": {
+          "id": 652202,
+          "name": "Create : Misc & Things",
+          "authors": [
+            {
+              "id": 102827187,
+              "name": "To0pa",
+              "url": "https://www.curseforge.com/members/to0pa"
+            }
+          ],
+          "gameId": 432,
+          "summary": "🔧 Add useful and fun things to Create",
+          "categories": [
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "create-misc-and-things",
+          "isFeatured": false,
+          "dateModified": "2025-06-20T12:29:12.033Z",
+          "dateCreated": "2022-08-29T10:15:45.35Z",
+          "dateReleased": "2025-03-05T16:09:57.047Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 873437,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/873/437/256/256/638293470247022480.png",
+            "title": "638293470247022480.png",
+            "url": "https://media.forgecdn.net/avatars/873/437/638293470247022480.png",
+            "modId": 652202
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 816103,
+              "description": "ouikk.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/103/310/172/ouikk.png",
+              "title": "ouikk.png",
+              "url": "https://media.forgecdn.net/attachments/816/103/ouikk.png",
+              "modId": 652202
+            },
+            {
+              "id": 816102,
+              "description": "rune.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/102/310/172/rune.png",
+              "title": "rune.png",
+              "url": "https://media.forgecdn.net/attachments/816/102/rune.png",
+              "modId": 652202
+            },
+            {
+              "id": 816101,
+              "description": "tdrgffgfge.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/101/310/172/tdrgffgfge.png",
+              "title": "tdrgffgfge.png",
+              "url": "https://media.forgecdn.net/attachments/816/101/tdrgffgfge.png",
+              "modId": 652202
+            },
+            {
+              "id": 816100,
+              "description": "speaker.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/100/310/172/speaker.png",
+              "title": "speaker.png",
+              "url": "https://media.forgecdn.net/attachments/816/100/speaker.png",
+              "modId": 652202
+            },
+            {
+              "id": 816099,
+              "description": "sing.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/99/310/172/sing.png",
+              "title": "sing.png",
+              "url": "https://media.forgecdn.net/attachments/816/99/sing.png",
+              "modId": 652202
+            },
+            {
+              "id": 816098,
+              "description": "jfyhuhjkgukge.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/98/310/172/jfyhuhjkgukge.png",
+              "title": "jfyhuhjkgukge.png",
+              "url": "https://media.forgecdn.net/attachments/816/98/jfyhuhjkgukge.png",
+              "modId": 652202
+            },
+            {
+              "id": 816097,
+              "description": "TUB.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/97/310/172/tub.png",
+              "title": "TUB.png",
+              "url": "https://media.forgecdn.net/attachments/816/97/tub.png",
+              "modId": 652202
+            },
+            {
+              "id": 816096,
+              "description": "Logo_copie.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/96/310/172/logo_copie.png",
+              "title": "Logo_copie.png",
+              "url": "https://media.forgecdn.net/attachments/816/96/logo_copie.png",
+              "modId": 652202
+            },
+            {
+              "id": 816095,
+              "description": "glu.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/95/310/172/glu.png",
+              "title": "glu.png",
+              "url": "https://media.forgecdn.net/attachments/816/95/glu.png",
+              "modId": 652202
+            },
+            {
+              "id": 816094,
+              "description": "gun.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/94/310/172/gun.png",
+              "title": "gun.png",
+              "url": "https://media.forgecdn.net/attachments/816/94/gun.png",
+              "modId": 652202
+            },
+            {
+              "id": 816093,
+              "description": "cardreader.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/93/310/172/cardreader.png",
+              "title": "cardreader.png",
+              "url": "https://media.forgecdn.net/attachments/816/93/cardreader.png",
+              "modId": 652202
+            },
+            {
+              "id": 816092,
+              "description": "2023-09-03_16.07.24.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/816/92/310/172/2023-09-03_16.png",
+              "title": "2023-09-03_16.07.24.png",
+              "url": "https://media.forgecdn.net/attachments/816/92/2023-09-03_16.png",
+              "modId": 652202
+            }
+          ],
+          "mainFileId": 6267546
+        },
+        "curseForgeFile": {
+          "id": 6267546,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[update 6 ✓][1.21.1] Create Misc and Things 4.0",
+          "fileName": "create_things_and_misc-4.0-neoforge-1.21.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-03-05T16:09:57.047Z",
+          "fileLength": 1028338,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1080807278,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 588486266,
+              "name": "net"
+            },
+            {
+              "fingerprint": 174076090,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2326570552,
+              "name": "data"
+            },
+            {
+              "fingerprint": 32171693,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "158f4391c13aace00b87bad6b0ba31602904af09",
+              "algo": 1
+            },
+            {
+              "value": "4515ed24ae18a83df8895c249331a9a5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.21.1",
+            "Server"
+          ],
+          "fileFingerprint": 1150095851,
+          "modId": 652202
+        },
+        "modrinthProject": {
+          "id": "uWrs8XlB",
+          "slug": "create-misc-and-things",
+          "project_type": "mod",
+          "team": "7oHfV5M9",
+          "title": "Create: Misc and Things",
+          "description": "🔧 Add useful and fun things to Create",
+          "body": "&nbsp;\n\n![Logo](https://media.forgecdn.net/attachments/816/96/logo_copie.png)\n\n\n[![Discord Logo](https://media.forgecdn.net/attachments/816/82/midlediscord_logo_copie.png)](https://discord.gg/3AvrppcgG3)\n\n[![Donate](https://cdn.modrinth.com/data/cached_images/e79bfe6b479f2a23fad07b79b13d88d027ae422e.png)](https://to0pa.ovh/donate)~~~~\n\n\n\n[![BH_NU_PROMO](https://media.forgecdn.net/attachments/816/78/bh_nu_promo.png)](https://bisecthosting.com/wrench)\n\n&nbsp;\n\n**Create: misc and things add some utility, building, and fun small things that don't fit in a theme. Gun made with a spout, Train Station Speaker, Building blocks...**\n\n&nbsp;\n\n# **__New Glue making method__ :**\n\n![Glue](https://media.forgecdn.net/attachments/816/95/glu.png)\n\n# **__Spout Gun__ :**\n\nUse Spout Gun to shoot liquid to your enemies!\n\n![Gun](https://media.forgecdn.net/attachments/816/94/gun.png)\n\n# **__Cards__ :**\n\nPut a Card in a card inscriber and make unique cards: scripted card can't be reproduced by other players. Use the Card Reader to validate your card!\n\n⚠️Cards can't be faked by another player because the player name is registered too\n\n![Card Reader](https://media.forgecdn.net/attachments/816/93/cardreader.png)\n\n# **__Speaker__ :**\n\nThe speaker does a sound and sends a custom message in the chat. The perfect block for a train station!\n\n![Speaker](https://media.forgecdn.net/attachments/816/100/speaker.png)\n\n# **__Traffic Signs__ :**\n\nDecorate your train tracks and avoid accidents!\n\n![Traffic Signs](https://media.forgecdn.net/attachments/816/99/sing.png)\n\n# **__Sticky Launchers__ :**\n\nJump like a rabbit! Use a sticker to craft the Copper Launcher and a Copper Launcher to craft the Brass Launcher!\n\n![Launchers](https://media.forgecdn.net/attachments/816/98/jfyhuhjkgukge.png)\n\n# **__Misc blocks__ :**\n\nNeon tube: Throwable Torch, allows you to explore caves and decorate your builds! Powdered Obsidian block: Breakable with a Diamond Shovel, perfect for a trap!\n\n![Misc Blocks](https://media.forgecdn.net/attachments/816/97/tub.png)\n\n# **__Misc items__ :**\n\nCrushed Magma: Good fuel source, cook 12 items. Slime Porridge: Right-click a Slime with this to make it grow. Portable Whistle: Station Masters need this!\n\n![Misc Items](https://media.forgecdn.net/attachments/816/102/rune.png)\n\n# **Magnifying Glass:**\n\nPut a card in your second hand and use the Magnifying Glass to see the script of a card.\n\n# **Vibration Mechanism:**\n\nUsed in crafts for new items.\n\n# **Mending Rune:**\n\nRepair all items with the mending enchantment. The mending rune takes XP from your XP bar to repair items.\n\n![Rune](https://media.forgecdn.net/attachments/816/103/ouikk.png)\n\n&nbsp;\n\n# **__Building Blocks__ :**\n\n![Building Blocks](https://media.forgecdn.net/attachments/816/101/tdrgffgfge.png)\n\nYou can put this mod in your modpack.\n\nInstall [jei](https://www.curseforge.com/minecraft/mc-mods/jei?adlt=strict&amp;toWww=1&amp;redig=8B55853145EB479E8CF26422E7C5851D) to see all the recipes.\n\nA question? Join the [discord](https://discord.gg/3AvrppcgG3)!\n\nIcon by Facu",
+          "published": "2023-05-29T10:00:24.294603Z",
+          "updated": "2025-03-05T16:17:20.428282Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-ND-4.0",
+            "name": "Creative Commons Attribution No Derivatives 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/uWrs8XlB/efc4c8e0d719c3b0c3efb8cfd719cf9b1d28a583_96.webp",
+          "discord_url": "https://discord.gg/3AvrppcgG3",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/to0pa"
+            },
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/donate/?hosted_button_id=R8MYYUG85FZWU"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/uWrs8XlB/images/77ae47759e35c3afe4c303a1c8335c83ce802f08_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/uWrs8XlB/images/f93a46620b3d16f829d41c894e4299afaf5ea822.png",
+              "featured": true,
+              "created": "2024-02-28T14:52:55.038150Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "5pDtp9Ho",
+          "project_id": "uWrs8XlB",
+          "author_id": "fecASNQx",
+          "name": "[update 6 ✓][1.21.1] Create Misc and Things 4.0",
+          "version_number": "4.0",
+          "changelog": "Updated to 1.21.1",
+          "date_published": "2025-03-05T16:17:20.428282Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "158f4391c13aace00b87bad6b0ba31602904af09",
+                "sha512": "99fbd84fa7cb79d7d10a237fbcb0816e04f1c1525c7ab493ac123ca84b7cc27bb013051d3a95f8521c626a9c269be5f40df010850b365c71421538435cf7cc16"
+              },
+              "url": "https://cdn.modrinth.com/data/uWrs8XlB/versions/5pDtp9Ho/create_things_and_misc-4.0-neoforge-1.21.1.jar",
+              "filename": "create_things_and_misc-4.0-neoforge-1.21.1.jar",
+              "primary": true,
+              "size": 1028338
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "R2OftAxM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Create: Compatible Storage",
+        "version": "2.8.1-neoforge",
+        "optional": true,
+        "file": "create_compatible_storage-2.8.1-neoforge.jar",
+        "type": "mods",
+        "description": "Having issues with Quark's chests on Create contraptions? This mod fixes them.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1247573,
+        "curseForgeFileId": 7133152,
+        "curseForgeProject": {
+          "id": 1247573,
+          "name": "Create: Compatible Storage",
+          "authors": [
+            {
+              "id": 111828811,
+              "name": "Dadamalda",
+              "url": "https://www.curseforge.com/members/dadamalda"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Having issues with Quark's chests on Create contraptions? This mod fixes them.",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-compatible-storage",
+          "isFeatured": false,
+          "dateModified": "2025-10-27T03:14:29.22Z",
+          "dateCreated": "2025-04-21T08:12:29.567Z",
+          "dateReleased": "2025-10-21T14:35:38.99Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-compatible-storage",
+            "issuesUrl": "https://github.com/DadamaldaDad/create-compatible-storage/issues",
+            "sourceUrl": "https://github.com/DadamaldaDad/create-compatible-storage"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/7FNMShG5GN"
+            }
+          ],
+          "logo": {
+            "id": 1231020,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1231/20/256/256/638807580965786161.png",
+            "title": "638807580965786161.png",
+            "url": "https://media.forgecdn.net/avatars/1231/20/638807580965786161.png",
+            "modId": 1247573
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1163633,
+              "description": "+ trapped chests",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1163/633/310/172/2025-04-19_10-08-18-png.png",
+              "title": "All compatible storages",
+              "url": "https://media.forgecdn.net/attachments/1163/633/2025-04-19_10-08-18-png.png",
+              "modId": 1247573
+            }
+          ],
+          "mainFileId": 7133152
+        },
+        "curseForgeFile": {
+          "id": 7133152,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "2.8.1-neoforge",
+          "fileName": "create_compatible_storage-2.8.1-neoforge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-10-21T14:35:38.99Z",
+          "fileLength": 114972,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 243121,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 398521,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 979761,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 628539,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 897116,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1154622,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 499980,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 543610,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 538214,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 858032,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 307052,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 401955,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 610492,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2500469178,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1050592491,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1955076131,
+              "name": "data"
+            },
+            {
+              "fingerprint": 533623663,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 973704640,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3415850491,
+              "name": "create_compatible_storage.mixins.json"
+            },
+            {
+              "fingerprint": 454825926,
+              "name": ".cache"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d9b2632ef3f3c20f03946246d617e800ffc96d33",
+              "algo": 1
+            },
+            {
+              "value": "457111d4aff179206db7d19ddbf67671",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.21.1",
+            "Server"
+          ],
+          "fileFingerprint": 3543507260,
+          "modId": 1247573
+        },
+        "modrinthProject": {
+          "id": "5ofroZ5W",
+          "slug": "create-compatible-storage",
+          "project_type": "mod",
+          "team": "l8ihyrfi",
+          "title": "Create: Compatible Storage",
+          "description": "Having issues with Quark's chests on Create contraptions? This mod fixes them.",
+          "body": "## Create: Compatible Storage\n\n> **Requires Create 6.0.X**\n\nModded chests variants on contraptions are **not** treated as an inventory and therefore can't pick up items from contraption actors, be opened by hand or accessed by portable storage interfaces.\n\nThis mod aims to fix this issue by adding the proper block tags, so you can use prettier chests.\n\nSupported mods:\n- Quark (chest variants)\n- Woodworks (chest variants, bamboo closet)\n- More Chest Variants (chest variants)\n- Farmer's Delight (cabinets, basket)\n- Storage Delight (everything)\n- Stone Chest (chest variants)\n- MrCrayfish's Furniture: Refurbished (everything except fridges, mailboxes partially supported)\n- Handcrafted (everything with storage)\n- Another Furniture (drawers)\n- Ars Nouveau (repositories)\n\nAlso supports Every Compat (Wood Good and Stone Zone)\n\n[![Available on Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy.png)](https://modrinth.com/mod/create-compatible-storage)\n[![Available on CurseForge](https://badges.penpow.dev/badges/available/curseforge/cozy.png)](https://www.curseforge.com/minecraft/mc-mods/create-compatible-storage)\n[![Available on Github](https://badges.penpow.dev/badges/available/github/cozy.png)](https://github.com/DadamaldaDad/create-compatible-storage)\n[![Chat with me on Discord](https://badges.penpow.dev/badges/social/discord-singular/cozy.png)](https://discord.gg/7FNMShG5GN)",
+          "published": "2025-04-15T18:24:40.596421Z",
+          "updated": "2025-10-21T14:36:04.497499Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "storage",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/5ofroZ5W/bcdd08231cbb5d45aa283d5b53bd38e8b8773b00_96.webp",
+          "issues_url": "https://github.com/DadamaldaDad/create-compatible-storage/issues",
+          "source_url": "https://github.com/DadamaldaDad/create-compatible-storage",
+          "discord_url": "https://discord.gg/7FNMShG5GN",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/5ofroZ5W/images/29a89b2661775262ec2dda9fdbdb50264037edaf_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/5ofroZ5W/images/29a89b2661775262ec2dda9fdbdb50264037edaf.png",
+              "featured": false,
+              "title": "All compatible storage blocks",
+              "description": "Trapped chests are also supported",
+              "created": "2025-04-19T08:38:01.915823Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "hpbOuQ0s",
+          "project_id": "5ofroZ5W",
+          "author_id": "2QUwVMWB",
+          "name": "2.8.1-neoforge",
+          "version_number": "2.8.1-neoforge",
+          "changelog": "- Added support for bamboo closets (Woodworks)\n- Fixed passers (Create: Storage) not working with some storages on NeoForge",
+          "date_published": "2025-10-21T14:36:04.497499Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d9b2632ef3f3c20f03946246d617e800ffc96d33",
+                "sha512": "2a16a81f22ca2e04530ff2fccf65aa0c868080a1e1447449ae1fea703bd954d1e71693279293f2930773a7b00b7d047a20e392e88dcaea4c3564d37817b8be57"
+              },
+              "url": "https://cdn.modrinth.com/data/5ofroZ5W/versions/hpbOuQ0s/create_compatible_storage-2.8.1-neoforge.jar",
+              "filename": "create_compatible_storage-2.8.1-neoforge.jar",
+              "primary": true,
+              "size": 114972
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "ulloLmqG",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "HKKqmr2p",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "qnQsVE2z",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "twkfQtEc",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "R2OftAxM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "rv1sovni",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "Q4Ryr1WL",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "eiktJyw1",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "pJmCFF0p",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "uYwn8IP5",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "LTTvOp5L",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "TKB6INcv",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Create: Copper & Zinc [Forge/Fabric/NeoForge]",
+        "version": "create_copper_and_zinc-1.6.5-neoforge-1.21.1",
+        "optional": true,
+        "file": "create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+        "type": "mods",
+        "description": "An addon for the Create mod providing recipes for Veridium and Asurine, to give the player renewable sources of Copper and Zinc.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 977947,
+        "curseForgeFileId": 6256587,
+        "curseForgeProject": {
+          "id": 977947,
+          "name": "Create: Copper & Zinc [Forge/Fabric/NeoForge]",
+          "authors": [
+            {
+              "id": 107071687,
+              "name": "robinfrt",
+              "url": "https://www.curseforge.com/members/robinfrt"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon for the Create mod providing recipes for Veridium and Asurine, to give the player renewable sources of Copper and Zinc.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-copper-zinc",
+          "isFeatured": false,
+          "dateModified": "2025-03-20T22:53:20.65Z",
+          "dateCreated": "2024-02-22T09:26:30.98Z",
+          "dateReleased": "2025-03-02T17:29:33.363Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-copper-zinc",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 1114400,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1114/400/256/256/638667708605368957_animated.gif",
+            "title": "638667708605368957.gif",
+            "url": "https://media.forgecdn.net/avatars/1114/400/638667708605368957.gif",
+            "modId": 977947
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1011221,
+              "description": "Veridium is crafted using clay balls, flint and lava in a mechanical mixer.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1011/221/310/172/2w.png",
+              "title": "Veridium Recipe",
+              "url": "https://media.forgecdn.net/attachments/1011/221/2w.png",
+              "modId": 977947
+            },
+            {
+              "id": 1011220,
+              "description": "Asurine is crafted using clay balls, flint and water in a mechanical mixer.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1011/220/310/172/1w.png",
+              "title": "Asurine Recipe",
+              "url": "https://media.forgecdn.net/attachments/1011/220/1w.png",
+              "modId": 977947
+            }
+          ],
+          "mainFileId": 6256587
+        },
+        "curseForgeFile": {
+          "id": 6256587,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+          "fileName": "create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-03-02T17:29:33.363Z",
+          "fileLength": 98442,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2140847622,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 804012286,
+              "name": "create_copper_and_zinc"
+            },
+            {
+              "fingerprint": 3578020200,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 554329942,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2034969125,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 378045967,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d6b7bf98f1a940fdc1a30a3cbc0831564cb17918",
+              "algo": 1
+            },
+            {
+              "value": "e079fa72db240c46dfc23ba3dbc6ad34",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.21",
+            "Client",
+            "NeoForge",
+            "1.21.1",
+            "Server"
+          ],
+          "fileFingerprint": 180016651,
+          "modId": 977947
+        },
+        "modrinthProject": {
+          "id": "aqYNR6rI",
+          "slug": "create-copper-zinc",
+          "project_type": "mod",
+          "team": "bcqjTXuH",
+          "title": "Create: Copper & Zinc [Forge/Fabric/NeoForge]",
+          "description": "An addon for the Create mod providing recipes for Veridium and Asurine, to give the player renewable sources of Copper and Zinc.",
+          "body": "<p>For 1.18.2 and older, refer to the <a href=\"https://www.curseforge.com/minecraft/texture-packs/create-copper-zinc-automation\">datapack version</a></p>\n<p><img src=\"https://i.ibb.co/X7ykZhG/banner.jpg\" alt=\"\" width=\"1125\" height=\"422\"></p>\n<h2>About</h2>\n<p>Create: Copper & Zinc is a simple mod adding two new recipes for Create: Asurine and Veridium. These blocks, once processed, provide the player with a renewable source of Copper and Zinc.</p>\n<h2>Preview (1.6.0+)</h2>\n<p><img src=\"https://i.ibb.co/sWJZh8F/2s.png\" width=\"1060\" height=\"400\" /></p>\n<p><img src=\"https://i.ibb.co/cYf81Qh/1s.png\" width=\"1060\" height=\"400\" /></p>\n<h2>Preview (1.5.0)</h2>\n<details>\n<summary>Show spoiler</summary>\n<p><img src=\"https://i.ibb.co/ctyMmvN/gallery-2.png\" width=\"1060\" height=\"400\" /></p>\n<p><img src=\"https://i.ibb.co/t3H7NCd/gallery-1.png\" width=\"1060\" height=\"400\" /></p>\n</details>\n<h2>Dependencies</h2>\n<p>Only the base <a href=\"https://modrinth.com/mod/create\">Create</a>&nbsp;mod is&nbsp;required for the above recipes to work.</p>\n<p><a href=\"https://modrinth.com/mod/jei\">JEI</a> is recommended but not required.</p>\n<h2>Installation</h2>\n<p>Add the .jar mod file into your mods&nbsp;folder.</p>\n<p>Alternatively, you can browse the Modrinth launcher for the mod (if it doesn't show up, try typing the autor's name). Once found, click \"Install\" to add it to your modpack.</p>\n<h2>Permissions</h2>\n<p>You are free to include this mod in any modpack, public or private.</p>\n<h2>Support my work</h2>\n<p><img src=\"https://i.ibb.co/vL9gzRz/image.png\" width=\"16\" height=\"20\" /> <a href=\"https://www.curseforge.com/members/robinfrt/projects\"><strong>Download my projects on CurseForge</strong></a><br /> <img src=\"https://i.ibb.co/FY9Qzzy/favicon-V2.png\" width=\"16\" height=\"16\" /> <a href=\"https://modrinth.com/user/robinfrt\"><strong>Download my projects on Modrinth</strong></a><br /> <img src=\"https://tinyurl.com/ffeam6b7\" width=\"16\" height=\"16\" /> <a href=\"https://www.paypal.com/donate/?hosted_button_id=XZ22AETPTQBD4\"><strong>Donate on Paypal</strong></a></p>",
+          "published": "2024-06-15T11:16:56.306248Z",
+          "updated": "2025-03-02T17:28:53.759977Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "management",
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/aqYNR6rI/5f3112d7479fc1c64d1a3d0797119b81a1ccb873.gif",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/donate/?hosted_button_id=XZ22AETPTQBD4"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/aqYNR6rI/images/de59cbe064322ff9abcf78276e127b58cb710adf_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/aqYNR6rI/images/de59cbe064322ff9abcf78276e127b58cb710adf.png",
+              "featured": false,
+              "title": "Asurine Recipe",
+              "description": "Asurine is crafted using clay balls, flint and water in a mechanical mixer.",
+              "created": "2024-11-09T21:39:18.645791Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/aqYNR6rI/images/3f8db252e2a45bc22f25ff20586e4b7956d8a852_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/aqYNR6rI/images/3f8db252e2a45bc22f25ff20586e4b7956d8a852.png",
+              "featured": false,
+              "title": "Veridium Recipe",
+              "description": "Veridium is crafted using clay balls, flint and lava in a mechanical mixer.",
+              "created": "2024-11-09T21:39:36.838877Z",
+              "ordering": 2.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "VUJE7tey",
+          "project_id": "aqYNR6rI",
+          "author_id": "JiB8GldR",
+          "name": "create_copper_and_zinc-1.6.5-neoforge-1.21.1",
+          "version_number": "1.6.5",
+          "changelog": "- added compatibility with create 6.0.1+\n- updated mod version",
+          "date_published": "2025-03-02T17:28:53.759977Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d6b7bf98f1a940fdc1a30a3cbc0831564cb17918",
+                "sha512": "98b2e6d65ef1571cc75646e59b117c614955d1129871eee549a6f63033f4abd0b4e7d0e81a133257ab122d0b69b15bd367871557c8c7bd327b03aa42d3597adf"
+              },
+              "url": "https://cdn.modrinth.com/data/aqYNR6rI/versions/VUJE7tey/create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+              "filename": "create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar",
+              "primary": true,
+              "size": 98442
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Create: Integrated Farming",
+        "version": "Create: Integrated Farming 1.1.2b for Create 1.21.1-6.0.6",
+        "optional": true,
+        "file": "create-integrated-farming-1.1.2b.jar",
+        "type": "mods",
+        "description": "Integrated farming automation for Create",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1249131,
+        "curseForgeFileId": 7127894,
+        "curseForgeProject": {
+          "id": 1249131,
+          "name": "Create: Integrated Farming",
+          "authors": [
+            {
+              "id": 103651564,
+              "name": "DragonsPlus",
+              "url": "https://www.curseforge.com/members/dragonsplus"
+            },
+            {
+              "id": 101665330,
+              "name": "MarbleGate",
+              "url": "https://www.curseforge.com/members/marblegate"
+            },
+            {
+              "id": 102642294,
+              "name": "RaymondBlaze",
+              "url": "https://www.curseforge.com/members/raymondblaze"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Integrated farming automation for Create",
+          "categories": [
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-integrated-farming",
+          "isFeatured": false,
+          "dateModified": "2025-11-12T13:54:42.087Z",
+          "dateCreated": "2025-04-22T12:00:26.293Z",
+          "dateReleased": "2025-11-12T13:53:15.557Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-integrated-farming"
+          },
+          "logo": {
+            "id": 1234923,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1234/923/256/256/638809167037442343.png",
+            "title": "638809167037442343.png",
+            "url": "https://media.forgecdn.net/avatars/1234/923/638809167037442343.png",
+            "modId": 1249131
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7214274
+        },
+        "curseForgeFile": {
+          "id": 7127894,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Create: Integrated Farming 1.1.2b for Create 1.21.1-6.0.6",
+          "fileName": "create-integrated-farming-1.1.2b.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2025-10-20T01:31:18.45Z",
+          "fileLength": 317670,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1216624,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 7127895,
+          "modules": [
+            {
+              "fingerprint": 471958264,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1561259580,
+              "name": "plus"
+            },
+            {
+              "fingerprint": 795347180,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1697334970,
+              "name": "create_integrated_farming.mixins.json"
+            },
+            {
+              "fingerprint": 3202885057,
+              "name": "data"
+            },
+            {
+              "fingerprint": 305404344,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3185485677,
+              "name": "create_integrated_farming.netherdepthsupgrade.mixins.json"
+            },
+            {
+              "fingerprint": 3678880823,
+              "name": "create_integrated_farming.createenchantablemachinery.mixins.json"
+            },
+            {
+              "fingerprint": 3788311694,
+              "name": "LICENSE.txt"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "913c88f337055b28a7b776850c9ce71ffca80f50",
+              "algo": 1
+            },
+            {
+              "value": "54ef3a88ba60b7a393bd9d1da80a5ee3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 3057930726,
+          "modId": 1249131
+        },
+        "modrinthProject": {
+          "id": "9k1pAsfR",
+          "slug": "create-integrated-farming",
+          "project_type": "mod",
+          "team": "ZtFFuKpH",
+          "title": "Create: Integrated Farming",
+          "description": "Integrated farming automation for Create",
+          "body": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/LJNQth9FJsw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nWelcome to **Create: Integrated Farming**, a mod adding more farming appliance and compat for Create.\n\n### We currently offer:\n* **Fishing Net**: Contraption conponent for catching of small aquatic animal and fishing at the same time\n* **Roost**: Fast-track poultry product output. Support chicken, duck & goose from **Untitled Duck**\n* **Harvester Compat**: Harvester is compatibile with plants and crops of multiple mods\n* **Mechanical Arm Compat**: Mechanical Arm supports Basket from **Farmer's Delight**, harvesting Bullet Pepper from **My Nether's Delight**, Crab Trap from **Crabber's Delight**\n* **Spout with Compost**: Spout catalyzes transformation of Organic Compost from **Farmer's Delight** and Leteos Compost from **My Nether's Delight**\n* Harvester's behavior fully supports enchantment from **Create Enchantable Machinery**\n* **Lava Fishing Net**: Lava fishing experience, with **Nether Depths Upgrade**\n* **Lightning Rod Charging Soil**: Support Weather Soil from **Delight o' Flight**\n\nIf you'd like to add more things, please suggest them to us [here](https://github.com/DragonsPlusMinecraft/CreateIntegratedFarming/issues)!\n\n### Installation Requirements\n**Create** & [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus)\n\n**Farmer's Delight** is highly recommended.",
+          "published": "2025-04-22T10:45:07.790828Z",
+          "updated": "2025-11-12T13:53:15.093951Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only",
+            "url": "https://github.com/DragonsPlusMinecraft/CreateIntegratedFarming/blob/main/LICENSE.txt"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "technology"
+          ],
+          "loaders": [
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9k1pAsfR/904e6311ef61f595854d872a7248a43fcbc9140d_96.webp",
+          "issues_url": "https://github.com/DragonsPlusMinecraft/CreateIntegratedFarming/issues",
+          "source_url": "https://github.com/DragonsPlusMinecraft/CreateIntegratedFarming",
+          "discord_url": "https://discord.com/invite/ABgu4dHnx4",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Ys6UpRJW",
+          "project_id": "9k1pAsfR",
+          "author_id": "kwwcafhu",
+          "name": "Create: Integrated Farming 1.1.2b for Create 1.21.1-6.0.6",
+          "version_number": "1.1.2b",
+          "changelog": "## Create: Integrated Farming 1.1.2b\n\n### Fix\n* Fix missing Ponder text",
+          "date_published": "2025-10-20T01:31:19.046783Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "913c88f337055b28a7b776850c9ce71ffca80f50",
+                "sha512": "d3292887c80b4304e438f610467491118326aeaf60af9c0a3ea62567eac8d4f0ebe4a03f3f0dbd0b425445df8fa8f43e287e8517e1fcf71f9b1c0467e1d9ce8b"
+              },
+              "url": "https://cdn.modrinth.com/data/9k1pAsfR/versions/Ys6UpRJW/create-integrated-farming-1.1.2b.jar",
+              "filename": "create-integrated-farming-1.1.2b.jar",
+              "primary": true,
+              "size": 317670
+            },
+            {
+              "hashes": {
+                "sha512": "e0ae6b3ac44195c84364deea368cb19ece806409a2eda8dd0e6fbd44d84f0ca56103554305ea9cf9941a78b8bbc2c7002b2aea43defd9fa07a381590691fc429",
+                "sha1": "0c78f90f54761ca429db29e54cbb7aabe6a2f7f5"
+              },
+              "url": "https://cdn.modrinth.com/data/9k1pAsfR/versions/Ys6UpRJW/create-integrated-farming-1.1.2b-sources.jar",
+              "filename": "create-integrated-farming-1.1.2b-sources.jar",
+              "primary": false,
+              "size": 240390
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "dzb1a5WV",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "JamLib",
+        "version": "V1.3.5+1.21.1 (NeoForge 1.21.1)",
+        "optional": true,
+        "file": "jamlib-neoforge-1.3.5+1.21.1.jar",
+        "type": "mods",
+        "description": "The platform-agnostic, Architectury based library used in all of JamCoreModding's mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 623764,
+        "curseForgeFileId": 6421954,
+        "curseForgeProject": {
+          "id": 623764,
+          "name": "JamLib",
+          "authors": [
+            {
+              "id": 100167166,
+              "name": "jamalam360",
+              "url": "https://www.curseforge.com/members/jamalam360"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The platform-agnostic, Architectury based library used in all of JamCoreModding's mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "jamlib",
+          "isFeatured": false,
+          "dateModified": "2025-10-23T12:31:33.887Z",
+          "dateCreated": "2022-05-16T07:53:06.183Z",
+          "dateReleased": "2025-10-23T12:28:52.77Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jamlib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/JamCoreModding/jam-lib/issues",
+            "sourceUrl": "https://github.com/JamCoreModding/jam-lib"
+          },
+          "logo": {
+            "id": 964489,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/964/489/256/256/638462824667803215.png",
+            "title": "638462824667803215.png",
+            "url": "https://media.forgecdn.net/avatars/964/489/638462824667803215.png",
+            "modId": 623764
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7140857
+        },
+        "curseForgeFile": {
+          "id": 6421954,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "V1.3.5+1.21.1 (NeoForge 1.21.1)",
+          "fileName": "jamlib-neoforge-1.3.5+1.21.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-04-14T12:19:19.14Z",
+          "fileLength": 188341,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3271599123,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3834661764,
+              "name": "architectury_inject_jamlib_common_26804dc0041845e78d7a84b773184863_adca03da081e0a937aadc821673e3812a4441e3a22b49a2fce80080994dba77ejamlib1351211devjar"
+            },
+            {
+              "fingerprint": 3366556371,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1559400615,
+              "name": "io"
+            },
+            {
+              "fingerprint": 3900430977,
+              "name": "jamlib.client.mixins.json"
+            },
+            {
+              "fingerprint": 1367798637,
+              "name": "jamlib.mixins.json"
+            },
+            {
+              "fingerprint": 212469728,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "efd3a1e2e05589338f976764270ae98fc62f4e1f",
+              "algo": 1
+            },
+            {
+              "value": "8b5d57e55a1dda4492686a36b6e8292e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "1.21",
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 473206733,
+          "modId": 623764
+        },
+        "modrinthProject": {
+          "id": "IYY9Siz8",
+          "slug": "jamlib",
+          "project_type": "mod",
+          "team": "UAqdZwMd",
+          "title": "JamLib",
+          "description": "The platform-agnostic, Architectury based library used in all of JamCoreModding's mods",
+          "body": "![JamLib: The platform-agnostic library used in all of JamCore's mods](https://cdn.jamalam.tech/mod-assets/jamlib-banner.png)\n\n<div align=\"center\">\n\n[Report Issues](https://github.com/JamCoreModding/jamlib) • [Chat on Discord](https://discord.jamalam.tech) • [CurseForge](https://curseforge.com/minecraft/mc-mods/jamlib) • [Modrinth](https://modrinth.com/mod/jamlib)\n\n</div>\n\nJamLib provides:\n\n- Platform abstractions\n- A JSON5 config API\n- A mod repost (9minecraft etc.) checker\n\nComprehensive documentation can be found [here](https://docs.jamalam.tech/jamlib/getting-started/).\n\n[![Rent a server with Bisect Hosting: Use Code jamalam to get 25% off](https://www.bisecthosting.com/partners/custom-banners/e0cc6668-0d29-40ff-9820-4d4f5433198a.webp)](https://bisecthosting.com/jamalam)\n",
+          "published": "2022-07-01T09:54:25.296438Z",
+          "updated": "2025-10-23T12:28:54.930708Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
+          "issues_url": "https://github.com/JamCoreModding/jam-lib/issues",
+          "source_url": "https://github.com/JamCoreModding/jam-lib",
+          "discord_url": "https://discord.jamalam.tech",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/jamalamdev"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "8Ph8BKRh",
+          "project_id": "IYY9Siz8",
+          "author_id": "x0XL8Z3a",
+          "name": "V1.3.5+1.21.1 (NeoForge 1.21.1)",
+          "version_number": "1.3.5+1.21.1",
+          "changelog": "- (fix) further issue with resetting values to default.",
+          "date_published": "2025-04-14T12:19:20.685001Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "14ce51b9b1a040dc92ea87cabe9cf064bc56ffc3917a2969db417c7a204a92518dfa20d0807071ac6d9a8b1adbf31ed50aff44b216b604c1dec705c57ef3031b",
+                "sha1": "efd3a1e2e05589338f976764270ae98fc62f4e1f"
+              },
+              "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/8Ph8BKRh/jamlib-neoforge-1.3.5%2B1.21.1.jar",
+              "filename": "jamlib-neoforge-1.3.5+1.21.1.jar",
+              "primary": true,
+              "size": 188341
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "lhGA9TYQ",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "RightClickHarvest",
+        "version": "V4.6.0+1.21.1 (NeoForge 1.21.1)",
+        "optional": true,
+        "file": "rightclickharvest-neoforge-4.6.0+1.21.1.jar",
+        "type": "mods",
+        "description": "Allows you to harvest crops with right click",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 452834,
+        "curseForgeFileId": 7025545,
+        "curseForgeProject": {
+          "id": 452834,
+          "name": "RightClickHarvest",
+          "authors": [
+            {
+              "id": 100167166,
+              "name": "jamalam360",
+              "url": "https://www.curseforge.com/members/jamalam360"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Allows you to harvest crops by right clicking",
+          "categories": [
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 416,
+          "classId": 6,
+          "slug": "rightclickharvest",
+          "isFeatured": false,
+          "dateModified": "2025-10-26T17:40:17.297Z",
+          "dateCreated": "2021-03-03T16:04:25.08Z",
+          "dateReleased": "2025-10-23T12:32:15.057Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rightclickharvest",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/JamCoreModding/right-click-harvest/issues",
+            "sourceUrl": "https://github.com/JamCoreModding/right-click-harvest"
+          },
+          "logo": {
+            "id": 827189,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/827/189/256/256/638214128652935154.png",
+            "title": "638214128652935154.png",
+            "url": "https://media.forgecdn.net/avatars/827/189/638214128652935154.png",
+            "modId": 452834
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7140866
+        },
+        "curseForgeFile": {
+          "id": 7025545,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "V4.6.0+1.21.1 (NeoForge 1.21.1)",
+          "fileName": "rightclickharvest-neoforge-4.6.0+1.21.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-23T13:28:17.343Z",
+          "fileLength": 287439,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 623764,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1236455510,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2319553165,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 33710475,
+              "name": "architectury_inject_rightclickharvest_common_46a15e9a27cc47b984f638ffd3c49655_8850acb959a46732d363446f2621b847303faaa5fb60baeccea7936642e97f0crightclickharvest4601211devjar"
+            },
+            {
+              "fingerprint": 2730012150,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4031006537,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1794876368,
+              "name": "io"
+            },
+            {
+              "fingerprint": 1454333962,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2426385225,
+              "name": "rightclickharvest.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "dca04a75c8ff6ee77451a8c2513c23ad6907f321",
+              "algo": 1
+            },
+            {
+              "value": "c3a55cc5c5c645fa281d5f26f83e6ec2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "1.21",
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 1621985200,
+          "modId": 452834
+        },
+        "modrinthProject": {
+          "id": "Cnejf5xM",
+          "slug": "rightclickharvest",
+          "project_type": "mod",
+          "team": "IQa1qV2A",
+          "title": "RightClickHarvest",
+          "description": "Allows you to harvest crops with right click",
+          "body": "![RCH Banner](https://www.bisecthosting.com/images/CF/RightClickHarvest/BH_RH_HEADER.webp)\n\n<center><img width=\"100%\" src=\"https://github.com/JamCoreModding/right-click-harvest/blob/main/demo.gif?raw=true\" /></center>\n<h3 align=\"center\">RightClickHarvest is a mod for Fabric, Forge, and NeoForge that allows harvesting crops and plants with just a right click.</h3>\n\n- Right click to harvest crops, replanting the seeds automatically.\n- Harvest all vanilla crops, including cocoa beans, cactus, sugar cane, and more.\n- Enchant your hoe with fortune to get a higher yield.\n- Harvest 99.9% of modded crops without extra configuration.\n- Configure if a hoe is required and whether harvesting uses hunger points.\n- Configure whether higher tier hoes harvest in a larger radius.\n\n<h2 align=\"center\">Config</h2>\n\n- **Require Hoe**: whether a hoe is required to harvest crops (_default: false_).\n- **Harvest in Radius**: whether to harvest crops in a bigger radius as the 'tier' of hoe used increases (_default: true_).\n- **Hunger Level**: the amount of hunger to require when harvesting, or none (_default: none_).\n- **Experience Type**: whether to consume or reward XP points for harvesting (_default: none_).\n- **Show Server Warning**: whether to display a warning when connecting to a server which does not have RightClickHarvest installed, as the mod will not work (_default: true_).\n\nThere are also a number of block and item tags available to customise the mod's behaviour, documented [here](https://docs.jamalam.tech/right-click-harvest/tags/).\n\n<h2 align=\"center\">FAQ</h2>\n\n- **Does this work client-side?** No, RightClickHarvest **must** be installed on the server and can **optionally** be installed on the client.\n- **How do I configure the mod?** On Fabric, make sure ModMenu is installed. From there, you can simply access the config through the mods menu on both platforms. For servers, edit `config/rightclickharvest.json5`.\n- **The mod isn't working.** The most common issue is that **Require Hoe** is set to `true` in the config, meaning that you have to be holding a hoe to harvest crops.\n- **Can you update to [version]?** The versions I currently support for all of my mods are documented [here](https://docs.jamalam.tech/supported-versions/). If the version you want is not listed, the answer is probably no.\n- **How do I make the mod work with crops from Supplementaries?** A compatibility mod is available: [Curseforge](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest-supplementaries-compat), [Modrinth](https://modrinth.com/mod/rch-supplementaries-compat)\n- **What are the dependencies of this mod?** Architectury API and JamLib are required, as well as Fabric API on Fabric.\n\n<h3 align=\"center\">For any questions not listed above, please join the Discord by clicking on the banner below.</h3>\n\n<h3 align=\"center\">Please report any bugs to the <a href=\"https://github.com/JamCoreModding/right-click-harvest\">GitHub page</a>.</h3>\n\n<a href=\"https://discord.jamalam.tech\"><img alt=\"Join the Discord\" src=\"https://www.bisecthosting.com/images/CF/RightClickHarvest/BH_RH_BANNER3.webp\" /></a>\n\n<a href=\"https://bisecthosting.com/jamalam\"><img alt=\"Rent a Server (25% off with code JAMALAM)\" src=\"https://www.bisecthosting.com/images/CF/RightClickHarvest/BH_RH_PROMO.webp\" /></a>\n",
+          "published": "2022-06-27T07:44:09.333111Z",
+          "updated": "2025-10-23T12:32:17.292120Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "food"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Cnejf5xM/b6e535989217836c2adc49b06f4b3c8f429afda3_96.webp",
+          "issues_url": "https://github.com/Jamalam360/RightClickHarvestFabric/issues",
+          "source_url": "https://github.com/JamCoreModding/RightClickHarvest",
+          "discord_url": "https://discord.jamalam.tech",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/jamalamdev"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "fVhkJu1j",
+          "project_id": "Cnejf5xM",
+          "author_id": "x0XL8Z3a",
+          "name": "V4.6.0+1.21.1 (NeoForge 1.21.1)",
+          "version_number": "4.6.0+1.21.1",
+          "changelog": "- Add new modded hoes to the tier tags (#102).\n- Fix warning message spam (#99).",
+          "date_published": "2025-09-23T13:28:19.373332Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "2aa224b18bce8ceabf25cb57cd9c1406d3200f3cb7181896a4f4d1e0d61b3cf3082a77021c06fe59b838539fe401f3e5920c960bcf9732947a5262a5b37abcb2",
+                "sha1": "dca04a75c8ff6ee77451a8c2513c23ad6907f321"
+              },
+              "url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/fVhkJu1j/rightclickharvest-neoforge-4.6.0%2B1.21.1.jar",
+              "filename": "rightclickharvest-neoforge-4.6.0+1.21.1.jar",
+              "primary": true,
+              "size": 287439
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "lhGA9TYQ",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "IYY9Siz8",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Create: Connected",
+        "version": "create_connected 1.1.6-mc1.21.1",
+        "optional": true,
+        "file": "create_connected-1.1.6-mc1.21.1.jar",
+        "type": "mods",
+        "description": "QoL blocks that you wish existed in Create - Highly configurable, disable what you don't need",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 947914,
+        "curseForgeFileId": 6685698,
+        "curseForgeProject": {
+          "id": 947914,
+          "name": "Create: Connected",
+          "authors": [
+            {
+              "id": 106045155,
+              "name": "Lysine",
+              "url": "https://www.curseforge.com/members/lysine"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Create mod add-on adding quality-of-life blocks that you wish existed in Create. ",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-connected",
+          "isFeatured": false,
+          "dateModified": "2025-11-09T08:48:32.303Z",
+          "dateCreated": "2023-12-10T11:20:29.773Z",
+          "dateReleased": "2025-11-09T08:44:56.31Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-connected",
+            "wikiUrl": "https://github.com/hlysine/create_connected/wiki",
+            "issuesUrl": "https://github.com/hlysine/create_connected/issues",
+            "sourceUrl": "https://github.com/hlysine/create_connected"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/3AvrppcgG3"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/hlysine/create_connected"
+            }
+          ],
+          "logo": {
+            "id": 922162,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
+            "title": "638387242479713653.png",
+            "url": "https://media.forgecdn.net/avatars/922/162/638387242479713653.png",
+            "modId": 947914
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 795440,
+              "description": "As of version 0.6",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/795/440/310/172/all-features.png",
+              "title": "All of Create: Connected",
+              "url": "https://media.forgecdn.net/attachments/795/440/all-features.png",
+              "modId": 947914
+            },
+            {
+              "id": 795441,
+              "description": "Copycat Block, Slab, Beam, Vertical Step, Stairs, Fence, Fence Gate, Wall, Board, Box, Catwalk",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/795/441/310/172/all-copycats.png",
+              "title": "All Copycats",
+              "url": "https://media.forgecdn.net/attachments/795/441/all-copycats.png",
+              "modId": 947914
+            },
+            {
+              "id": 795442,
+              "description": "Connected textures work on all copycats, with small glitches in Copycat Stairs and Copycat Boards due to model limitations",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/795/442/310/172/connected-textures.png",
+              "title": "Connected Textures on Copycats",
+              "url": "https://media.forgecdn.net/attachments/795/442/connected-textures.png",
+              "modId": 947914
+            },
+            {
+              "id": 778744,
+              "description": "Selectively disable blocks using the config. No datapacks/CraftTweaker/KubeJS required!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/778/744/310/172/screenshot-2023-12-22-175635.png",
+              "title": "Feature Toggle System",
+              "url": "https://media.forgecdn.net/attachments/778/744/screenshot-2023-12-22-175635.png",
+              "modId": 947914
+            },
+            {
+              "id": 777802,
+              "description": "Designed for sorting systems",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/777/802/310/172/rh50r6iotd7c1-screen-fill.png",
+              "title": "Extra Attributes for Attribute Filter",
+              "url": "https://media.forgecdn.net/attachments/777/802/rh50r6iotd7c1-screen-fill.png",
+              "modId": 947914
+            },
+            {
+              "id": 795443,
+              "description": "Allows for instructions that run indefinitely",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/795/443/310/172/sequenced-gearshift.png",
+              "title": "Extra Instructions for Sequenced Gearshift",
+              "url": "https://media.forgecdn.net/attachments/795/443/sequenced-gearshift.png",
+              "modId": 947914
+            },
+            {
+              "id": 795446,
+              "description": "Organize your schematics into folders and preserve folder structure when uploading to servers",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/795/446/310/172/schematics-sub-folder.png",
+              "title": "Schematics in Sub-folders",
+              "url": "https://media.forgecdn.net/attachments/795/446/schematics-sub-folder.png",
+              "modId": 947914
+            }
+          ],
+          "mainFileId": 7201963
+        },
+        "curseForgeFile": {
+          "id": 6685698,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "create_connected 1.1.6-mc1.21.1",
+          "fileName": "create_connected-1.1.6-mc1.21.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-06-23T04:41:55.64Z",
+          "fileLength": 6550539,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2686844650,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1883155504,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2122375467,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1988218379,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1533295638,
+              "name": "create_connected.mixins.json"
+            },
+            {
+              "fingerprint": 539850158,
+              "name": "create_connected_icon.png"
+            },
+            {
+              "fingerprint": 2943246710,
+              "name": "create_connected_icon.webp"
+            },
+            {
+              "fingerprint": 2671865628,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3265794773,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f52b659341fd3f53633d89dedc37c8cbea0f69ad",
+              "algo": 1
+            },
+            {
+              "value": "79f9f66ef0e951ebcddac28e97c45798",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.21.1"
+          ],
+          "fileFingerprint": 1447326045,
+          "modId": 947914
+        },
+        "modrinthProject": {
+          "id": "Vg5TIO6d",
+          "slug": "create-connected",
+          "project_type": "mod",
+          "team": "TwWL4T9K",
+          "title": "Create: Connected",
+          "description": "QoL blocks that you wish existed in Create - Highly configurable, disable what you don't need",
+          "body": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hlysine/create_connected/main/src/main/resources/create_connected_icon.png\" alt=\"Logo\" width=\"128\"></p>\n\n<h1 align=\"center\">Create: Connected</h1>\n\n<p align=\"center\">\n<a title=\"Supported versions\" target=\"_blank\" href=\"https://modrinth.com/mod/create-connected/\"><img src=\"https://cf.way2muchnoise.eu/versions/947914_all.svg\"></a>\n<a title=\"Modrinth\" target=\"_blank\" href=\"https://modrinth.com/mod/create-connected/\"><img src=\"https://img.shields.io/modrinth/dt/Vg5TIO6d?style=flat&label=Modrinth\"></a>\n<a title=\"CurseForge\" target=\"_blank\" href=\"https://www.curseforge.com/minecraft/mc-mods/create-connected\"><img src=\"https://img.shields.io/curseforge/dt/947914?style=flat&label=CurseForge\"></a>\n<a title=\"Crowdin\" target=\"_blank\" href=\"https://crowdin.com/project/create-connected-mod\"><img src=\"https://badges.crowdin.net/create-connected-mod/localized.svg\"></a>\n<a title=\"Discord\" target=\"_blank\" href=\"https://discord.gg/3AvrppcgG3\"><img src=\"https://discordapp.com/api/guilds/891929048895356948/widget.png?style=shield\"></a>\n</p>\n\nA Create mod add-on adding quality-of-life blocks that you wish existed in Create.\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/cd02548b-be01-4a01-b707-ffcb913f5299.webp)](https://bisecthosting.com/lysine)\n\n[![Create: Addon Hub server](https://discordapp.com/api/guilds/891929048895356948/widget.png?style=banner2)](https://discord.gg/3AvrppcgG3)\n\n> **Want reliable, immersive chunk-loading for your Create machines? Check\nout [Create: Power Loader](https://modrinth.com/mod/create-power-loader)**\n\n## Create: Connected now fully supports Create 6.0 on Minecraft 1.20.1 and 1.21.1\n\nSupport for Minecraft 1.19.2 and 1.18.2 has been dropped.\n\n## What's new in 1.1\n\n![kinetic_bridge](https://github.com/user-attachments/assets/c4996f1a-ca28-4164-886a-a872073fc80c) **Kinetic Bridge**\n\nTransfer stress capacity from one network to another while keeping the networks separate. Guarantees that the source network will not be affected when the destination network is overstressed.\n\n![kinetic_battery](https://github.com/user-attachments/assets/02d33d98-ac20-4629-8993-149fe1123d24) ![charged_kinetic_battery](https://github.com/user-attachments/assets/33b5ac7d-7e27-44b1-ada9-b70a21324be6) **Kinetic Battery**\n\nStores kinetic stress for later use. Retains charge in item form to enable long-distance energy transport. Battery capacity, RPM at discharge and stress impact values are all configurable.\n\n![cross_connector](https://github.com/user-attachments/assets/e099e1aa-7e06-43e7-a33a-a906dd706336) **Cross Connector**\n\nRelays rotation in two directions independently.\n\n![redstone_link_wildcard](https://github.com/user-attachments/assets/6c81752e-1024-4685-84d1-c3947e6d26b6) **Redstone Link Wildcard**\n\nAssign this item to a redstone link frequency slot to match any item in that slot, including air.\n\n![fan_freezing_catalyst](https://github.com/user-attachments/assets/5fb53ff5-6bf2-4005-9caf-68df3c9df1a1) ![fan_sanding_catalyst](https://github.com/user-attachments/assets/5cb15a91-de17-47fb-91af-a065080f116d) ![fan_ending_catalyst_dragons_breath](https://github.com/user-attachments/assets/ebacf2c6-2639-45da-a635-ba421c332e92) ![fan_ending_catalyst_dragon_head](https://github.com/user-attachments/assets/4c3105e7-5897-4755-9e00-7fca7bdc1763) ![fan_enriched_catalyst](https://github.com/user-attachments/assets/0d44f0d4-416d-4294-8407-25eb5bc3039a) ![fan_withering_catalyst](https://github.com/user-attachments/assets/0c75b5b0-aa4b-4d74-baea-dc125bcebe79) **More Fan Catalysts**\n\nFan catalysts now support Create: Nuclear, Create: Dragons Plus and Create: Henry.\n\n## Features\n\n### New Blocks and Items\n\nClutches and gearboxes for your Create machines, diodes and transmitters for your redstone circuits, and rotated vaults and tanks for better logistics!\nA complete package for all your technical Create needs. Visit [the GitHub wiki](https://github.com/hlysine/create_connected/wiki/New-Features) for a complete list.\n\n[![All features](https://cdn.modrinth.com/data/Vg5TIO6d/images/897c4d67eae94a366c49782ddb1654c5a6e383c5.png)](https://github.com/hlysine/create_connected/wiki/New-Features)\n\n### Feature toggle\n\nDon't like certain features? You can disable them in the configs. Think a horizontal tank is too OP? You can nerf it in the configs. This mod is highly customizable to fit your modpack's needs.\n\n[![Feature Toggle System](https://cdn.modrinth.com/data/Vg5TIO6d/images/d74a9a1a353caee83b0d5dc69c60305a14699d3a.png)](https://github.com/hlysine/create_connected/wiki/Configs)\n\n### Enhancements to Create\n\nEnhanced Sequenced Gearshift and Attribute Filter, functional blocks on contraptions, schematics in sub-folders...\nSmall and simple QoL enhancement to Create's features.\n\n[![Vanilla blocks on trains](https://github.com/hlysine/create_connected/assets/25472513/31d7c32e-0cc1-4238-a220-315d8269810f)](https://github.com/hlysine/create_connected/wiki/Create-Enhancements)\n\n## Download\n\nFind this mod on [**Modrinth**](https://modrinth.com/mod/create-connected) or\n[**CurseForge**](https://legacy.curseforge.com/minecraft/mc-mods/create-connected).\n\n**Supported Create versions:**\n\n| Create          | Create: Connected |\n|-----------------|-------------------|\n| 0.5.1e          | 0.0.2             |\n| 0.5.1f - 0.5.1j | 0.0.3 - 0.9.5     |\n| 6.0.0 - 6.0.5   | 1.0.0 - 1.1.4     |\n| 6.0.6           | 1.1.5 - 1.1.7     |\n| 6.0.7+          | 1.1.9 - latest    |\n\n## Compatibility\n\n**Incompatible with Create: Extended Cogwheels**: functionality is not affected, but there will be confusing visual\nglitches due to Extended Cogwheels treating Connected components as cogwheels.\n\n## Usage\n\n**In modpacks:**\n\n- You can include this mod in any modpacks.\n- You can make any modifications to the mod with the goal of distributing it in a modpack.\n\n**In other cases:**\n\n- You can use this mod however you like as long as you obtain the mod via its Modrinth or CurseForge page.\n- You can make any modifications to the mod, but you cannot redistribute it unless you have modified a substantial\n  portion of the mod's code. Changes to resource packs/data packs/mod metadata do not count as code modification.\n\nThis mod is open to suggestions, so if you have made any modification to the mod, please leave an issue/PR so I can\nconsider adding your use case to the mod.\n\n## Contributing\n\nIf you are interested in helping, please take a look\nat [the contributing guide](https://github.com/hlysine/create_connected/blob/main/CONTRIBUTING.md).\n\n## Support\n\nThe best way to support my work is to simply download this mod on [**Modrinth**](https://modrinth.com/mod/create-connected).\nEnjoy a smoother download experience and support open source software with a single click.\n\nIf you would like to offer more direct support, you\ncan [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O2TL8YV)\n\n## Credits\n\n**Translation**\n\n- Thanks [Crowdin contributors](https://crowdin.com/project/create-connected-mod/reports/top-members) for their effort\n  in localization\n\n**Inspiration**\n\n- The Create mod Discord server and subreddit\n\n**Assets**\n\n- Casa Bossa Nova Kevin MacLeod (incompetech.com)<br>\n  Licensed under Creative Commons: By Attribution 3.0 License<br>\n  http://creativecommons.org/licenses/by/3.0/\n- Local Forecast - Elevator Kevin MacLeod (incompetech.com)<br>\n  Licensed under Creative Commons: By Attribution 3.0 License<br>\n  http://creativecommons.org/licenses/by/3.0/\n",
+          "published": "2023-12-08T13:50:45.358173Z",
+          "updated": "2025-11-09T08:44:57.079900Z",
+          "status": "approved",
+          "license": {
+            "id": "AGPL-3.0-or-later",
+            "name": "GNU Affero General Public License v3.0 or later",
+            "url": "https://github.com/hlysine/create_connected/blob/main/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Vg5TIO6d/2e69151b9664c7f03f0568c5fdf1d44aa98db452_96.webp",
+          "issues_url": "https://github.com/hlysine/create_connected/issues",
+          "source_url": "https://github.com/hlysine/create_connected",
+          "wiki_url": "https://github.com/hlysine/create_connected/wiki",
+          "discord_url": "https://discord.gg/3AvrppcgG3",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/lysine"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/53034ec88d1b4733bd2194b2d4c040c1a6dad829_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/897c4d67eae94a366c49782ddb1654c5a6e383c5.png",
+              "featured": true,
+              "title": "All of Create: Connected",
+              "description": "As of version 0.6",
+              "created": "2024-01-24T13:14:06.097112Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/bc3fb55952c3639e663cb99aef6a63498a1c3b6d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/66cf7e11b2ed2b209cdba64f94f2b54ffd81aea6.png",
+              "featured": false,
+              "title": "All Copycats",
+              "description": "Copycat Block, Slab, Beam, Vertical Step, Stairs, Fence, Fence Gate, Wall, Board, Box, Catwalk",
+              "created": "2024-01-24T13:22:01.437706Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/f48bda2474aaa5169683a49d667173f9df4b26d3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/ce7db72810d35419a1bc9751349fef75864c886a.png",
+              "featured": false,
+              "title": "Connected Textures on Copycats",
+              "description": "Connected textures work on all copycats, with small glitches in Copycat Stairs and Copycat Boards due to model limitations",
+              "created": "2024-01-24T13:26:05.049765Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/e801e98e89598ab155e5dcbc11ddaeda4f500468_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/e801e98e89598ab155e5dcbc11ddaeda4f500468.webp",
+              "featured": false,
+              "title": "Extra Attributes for Attribute Filter",
+              "description": "Designed for sorting systems",
+              "created": "2023-12-21T02:22:12.291888Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/badc4dbe9baf24e380fa9ed7614e095f3819ed14.png",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/badc4dbe9baf24e380fa9ed7614e095f3819ed14.png",
+              "featured": false,
+              "title": "Extra Instructions for Sequenced Gearshift",
+              "description": "Allows for instructions that run indefinitely",
+              "created": "2024-01-24T13:27:53.986395Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/22371c628ebf2b51ad2aba167b79ba29d4418dc5_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/d74a9a1a353caee83b0d5dc69c60305a14699d3a.png",
+              "featured": false,
+              "title": "Feature Toggle System",
+              "description": "Selectively disable blocks using the config. No datapacks/CraftTweaker/KubeJS required!",
+              "created": "2023-12-22T09:57:25.779063Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/33856c0b7f9aa56652676f8471d1f4b2f81a55c9.png",
+              "raw_url": "https://cdn.modrinth.com/data/Vg5TIO6d/images/33856c0b7f9aa56652676f8471d1f4b2f81a55c9.png",
+              "featured": false,
+              "title": "Schematics in Sub-folders",
+              "description": "Organize your schematics into folders and preserve folder structure when uploading to servers",
+              "created": "2024-01-24T13:32:08.290437Z",
+              "ordering": 7.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "LEoHpQEQ",
+          "project_id": "Vg5TIO6d",
+          "author_id": "xBrWDFOf",
+          "name": "create_connected 1.1.6-mc1.21.1",
+          "version_number": "1.1.6-mc1.21.1",
+          "changelog": "## NOTE: Create: Connected 1.0.0 or above only works with Create 6.0.0 or above!\n\nCheck out the detailed changelog at https://github.com/hlysine/create_connected/blob/main/CHANGELOG.md",
+          "date_published": "2025-06-23T04:41:55.814351Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f52b659341fd3f53633d89dedc37c8cbea0f69ad",
+                "sha512": "773d23e5ba69d10be483301ec7623eb03a98f5d9f882d1a8042dca632f9b43281f4e6ad520f4d705f097dc349f3fa3b4db601118f90f541667453e39a6f4e8ce"
+              },
+              "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/LEoHpQEQ/create_connected-1.1.6-mc1.21.1.jar",
+              "filename": "create_connected-1.1.6-mc1.21.1.jar",
+              "primary": true,
+              "size": 6550539
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1762891997186,
-    "numPlays": 70,
+    "lastPlayed": 1763406951331,
+    "numPlays": 79,
     "lastExportName": "Vanilla++",
     "lastExportVersion": "0.4.0",
     "lastExportAuthor": "SyntheticDev",
-    "lastExportSaveTo": "F:\\ATLauncher\\instances\\VanillaModpack\\releases"
+    "lastExportSaveTo": "F:\\ATLauncher\\instances\\Vanilla\\releases"
   },
   "id": "1.21.1",
   "complianceLevel": 1,
