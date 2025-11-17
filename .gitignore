@@ -16,6 +16,7 @@ command_history.txt
 usercache.json
 usernamecache.json
 *.dat_old
+*.bak
 
 # Mod caches
 Distant_Horizons_server_data/
